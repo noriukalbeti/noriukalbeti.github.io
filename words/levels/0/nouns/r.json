@@ -1,0 +1,15 @@
+[
+  {"lt": [{"word": "raktas", "stressed": "rãktas", "gender": "vyriška"}], "en": [{"word": "key"}], "ru": [{"word": "ключ"}]},
+  {"lt": [{"word": "ranka", "stressed": "rankà", "gender": "moteriška"}], "en": [{"word": "hand"}], "ru": [{"word": "рука"}]},
+  {"lt": [{"word": "rankinė", "stressed": "rankìnė", "gender": "moteriška"}], "en": [{"word": "handbag"}], "ru": [{"word": "сумка"}]},
+  {"lt": [{"word": "rankovė", "stressed": "rankovė", "gender": "moteriška"}], "en": [{"word": "sleeve"}], "ru": [{"word": "рукав"}]},
+  {"lt": [{"word": "receptas", "stressed": "recèptas", "gender": "vyriška"}], "en": [{"word": "prescription"}, {"word": "recipe"}], "ru": [{"word": "рецепт"}]},
+  {"lt": [{"word": "remontas", "stressed": "remòntas", "gender": "vyriška"}], "en": [{"word": "repair"}], "ru": [{"word": "ремонт"}]},
+  {"lt": [{"word": "rezervacija", "stressed": "rezervãcija", "gender": "moteriška"}], "en": [{"word": "reservation"}], "ru": [{"word": "резервация"}, {"word": "бронь"}]},
+  {"lt": [{"word": "rūbas", "stressed": "rū́bas", "gender": "vyriška"}], "en": [{"word": "garment"}, {"word": "clothes"}], "ru": [{"word": "одежда"}]},
+  {"lt": [{"word": "rūsys", "stressed": "rūsỹs", "gender": "vyriška"}], "en": [{"word": "cellar"}], "ru": [{"word": "подвал"}]},
+  {"lt": [{"word": "restoranas", "stressed": "restorãnas", "gender": "vyriška"}], "en": [{"word": "restaurant"}], "ru": [{"word": "ресторан"}]},
+  {"lt": [{"word": "riešutas", "stressed": "riešutas", "gender": "vyriška"}], "en": [{"word": "nut"}], "ru": [{"word": "орех"}]},
+  {"lt": [{"word": "rytas", "stressed": "rýtas", "gender": "vyriška"}], "en": [{"word": "morning"}], "ru": [{"word": "утро"}]},
+  {"lt": [{"word": "ryžiai", "stressed": "rỹžiai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "rice"}], "ru": [{"word": "рис"}]}
+]

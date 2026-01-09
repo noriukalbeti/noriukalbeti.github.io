@@ -1,0 +1,13 @@
+[
+  {"lt": [{"word": "eglė", "stressed": "ẽglė", "gender": "moteriška"}], "en": [{"word": "spruce"}], "ru": [{"word": "ель"}]},
+  {"lt": [{"word": "egzaminas", "stressed": "egzãminas", "gender": "vyriška"}], "en": [{"word": "exam"}], "ru": [{"word": "экзамен"}]},
+  {"lt": [{"word": "eismas", "stressed": "eĩsmas", "gender": "vyriška"}], "en": [{"word": "traffic"}], "ru": [{"word": "движение", "context": "дорожное"}]},
+  {"lt": [{"word": "ėjimas", "stressed": "ėjìmas", "gender": "vyriška"}], "en": [{"word": "walking"}, {"word": "move"}], "ru": [{"word": "ход"}, {"word": "ходьба"}]},
+  {"lt": [{"word": "eilė", "stressed": "eilė̃", "gender": "moteriška"}], "en": [{"word": "line"}], "ru": [{"word": "очередь"}]},
+  {"lt": [{"word": "eilėraštis", "stressed": "eilė́raštis", "gender": "vyriška"}], "en": [{"word": "poem"}], "ru": [{"word": "стихотворение"}]},
+  {"lt": [{"word": "ekranas", "stressed": "ekrãnas", "gender": "vyriška"}], "en": [{"word": "screen"}], "ru": [{"word": "экран"}]},
+  {"lt": [{"word": "ekskursija", "stressed": "ekskùrsija", "gender": "moteriška"}], "en": [{"word": "excursion"}], "ru": [{"word": "экскурсия"}]},
+  {"lt": [{"word": "elektra", "stressed": "elèktra", "gender": "moteriška"}], "en": [{"word": "electricity"}], "ru": [{"word": "электричество"}]},
+  {"lt": [{"word": "euras", "stressed": "èuras", "gender": "vyriška"}], "en": [{"word": "euro"}], "ru": [{"word": "евро"}]},
+  {"lt": [{"word": "ežeras", "stressed": "ẽžeras", "gender": "vyriška"}], "en": [{"word": "lake"}], "ru": [{"word": "озеро"}]}
+]

@@ -1,0 +1,15 @@
+[
+  {"lt": [{"word": "idėja", "stressed": "idė́ja", "gender": "moteriška"}], "en": [{"word": "idea"}], "ru": [{"word": "идея"}]},
+  {"lt": [{"word": "ilgis", "stressed": "ilgis", "gender": "vyriška"}], "en": [{"word": "length"}], "ru": [{"word": "длина"}]},
+  {"lt": [{"word": "infekcija", "stressed": "infèkcija", "gender": "moteriška"}], "en": [{"word": "infection"}], "ru": [{"word": "инфекция"}]},
+  {"lt": [{"word": "informacija", "stressed": "informãcija", "gender": "moteriška"}], "en": [{"word": "information"}], "ru": [{"word": "информация"}]},
+  {"lt": [{"word": "inžinierius", "stressed": "inžiniẽrius", "gender": "vyriška"}], "en": [{"word": "engineer"}], "ru": [{"word": "инженер"}]},
+  {"lt": [{"word": "instrukcija", "stressed": "instrùkcija", "gender": "moteriška"}], "en": [{"word": "instruction"}], "ru": [{"word": "инструкция"}]},
+  {"lt": [{"word": "instrumentas", "stressed": "instrumeñtas", "gender": "vyriška"}], "en": [{"word": "instrument"}], "ru": [{"word": "инструмент"}]},
+  {"lt": [{"word": "internetas", "stressed": "internètas", "gender": "vyriška"}], "en": [{"word": "internet"}], "ru": [{"word": "интернет"}]},
+  {"lt": [{"word": "istorija", "stressed": "istòrija", "gender": "moteriška"}], "en": [{"word": "history"}, {"word": "story"}], "ru": [{"word": "история"}]},
+  {"lt": [{"word": "išsilavinimas", "stressed": "išsilãvinimas", "gender": "vyriška"}], "en": [{"word": "education"}], "ru": [{"word": "образование"}]},
+  {"lt": [{"word": "įėjimas", "stressed": "įė́jimas", "gender": "vyriška"}], "en": [{"word": "entrance"}], "ru": [{"word": "вход"}]},
+  {"lt": [{"word": "įmonė", "stressed": "įmonė", "gender": "moteriška"}], "en": [{"word": "enterprise"}, {"word": "company"}], "ru": [{"word": "предприятие"}]},
+  {"lt": [{"word": "įrankis", "stressed": "į́rankis", "gender": "vyriška"}], "en": [{"word": "tool"}], "ru": [{"word": "инструмент", "context": "ручной"}]}
+]

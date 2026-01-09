@@ -1,0 +1,10 @@
+[
+  {"lt": [{"word": "obuolys", "stressed": "obuolỹs", "gender": "vyriška"}], "en": [{"word": "apple"}], "ru": [{"word": "яблоко"}]},
+  {"lt": [{"word": "odontologas", "stressed": "odontològas", "gender": "vyriška"}], "en": [{"word": "dentist"}], "ru": [{"word": "одонтолог"}, {"word": "стоматолог"}]},
+  {"lt": [{"word": "opera", "stressed": "òpera", "gender": "moteriška"}], "en": [{"word": "opera"}], "ru": [{"word": "опера"}]},
+  {"lt": [{"word": "operacija", "stressed": "operãcija", "gender": "moteriška"}], "en": [{"word": "operation"}], "ru": [{"word": "операция"}]},
+  {"lt": [{"word": "oras", "stressed": "óras", "gender": "vyriška"}], "en": [{"word": "air"}, {"word": "weather"}], "ru": [{"word": "воздух"}, {"word": "погода"}]},
+  {"lt": [{"word": "orkaitė", "stressed": "òrkaitė", "gender": "moteriška"}], "en": [{"word": "oven"}], "ru": [{"word": "духовка"}]},
+  {"lt": [{"word": "oro uostas", "stressed": "óro úostas", "gender": "vyriška"}], "en": [{"word": "airport"}], "ru": [{"word": "аэропорт"}]},
+  {"lt": [{"word": "orkestras", "stressed": "orkèstras", "gender": "vyriška"}], "en": [{"word": "orchestra"}], "ru": [{"word": "оркестр"}]}
+]

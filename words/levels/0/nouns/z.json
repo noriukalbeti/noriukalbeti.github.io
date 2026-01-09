@@ -1,0 +1,23 @@
+[
+  {"lt": [{"word": "žaislas", "stressed": "žaĩslas", "gender": "vyriška"}], "en": [{"word": "toy"}], "ru": [{"word": "игрушка"}]},
+  {"lt": [{"word": "žemė", "stressed": "žẽmė", "gender": "moteriška"}], "en": [{"word": "earth"}, {"word": "ground"}], "ru": [{"word": "земля"}]},
+  {"lt": [{"word": "žemėlapis", "stressed": "žemė́lapis", "gender": "vyriška"}], "en": [{"word": "map"}], "ru": [{"word": "карта"}]},
+  {"lt": [{"word": "žentas", "stressed": "žeñtas", "gender": "vyriška"}], "en": [{"word": "son-in-law"}], "ru": [{"word": "зять"}]},
+  {"lt": [{"word": "žiedas", "stressed": "žiẽdas", "gender": "vyriška"}], "en": [{"word": "ring"}, {"word": "blossom"}], "ru": [{"word": "кольцо"}, {"word": "цветок"}]},
+  {"lt": [{"word": "žiebtuvėlis", "stressed": "žiebtuvė̃lis", "gender": "vyriška"}], "en": [{"word": "lighter"}], "ru": [{"word": "зажигалка"}]},
+  {"lt": [{"word": "žiema", "stressed": "žiemà", "gender": "moteriška"}], "en": [{"word": "winter"}], "ru": [{"word": "зима"}]},
+  {"lt": [{"word": "žinios", "stressed": "žìnios", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "news"}], "ru": [{"word": "известия"}, {"word": "новости"}]},
+  {"lt": [{"word": "žirklės", "stressed": "žìrklės", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "scissors"}], "ru": [{"word": "ножницы"}]},
+  {"lt": [{"word": "žirnis", "stressed": "žìrnis", "gender": "vyriška"}], "en": [{"word": "pea"}], "ru": [{"word": "горох"}]},
+  {"lt": [{"word": "žmogus", "stressed": "žmogùs", "gender": "vyriška"}], "en": [{"word": "person"}, {"word": "man"}], "ru": [{"word": "человек"}]},
+  {"lt": [{"word": "žmona", "stressed": "žmonà", "gender": "moteriška"}], "en": [{"word": "wife"}], "ru": [{"word": "жена"}]},
+  {"lt": [{"word": "žodynas", "stressed": "žodýnas", "gender": "vyriška"}], "en": [{"word": "dictionary"}], "ru": [{"word": "словарь"}]},
+  {"lt": [{"word": "žolė", "stressed": "žolė̃", "gender": "moteriška"}], "en": [{"word": "grass"}], "ru": [{"word": "трава"}]},
+  {"lt": [{"word": "žurnalas", "stressed": "žurnãlas", "gender": "vyriška"}], "en": [{"word": "magazine"}], "ru": [{"word": "журнал"}]},
+  {"lt": [{"word": "žurnalistas", "stressed": "žurnalìstas", "gender": "vyriška"}], "en": [{"word": "journalist"}], "ru": [{"word": "журналист"}]},
+  {"lt": [{"word": "žurnalistika", "stressed": "žurnalìstika", "gender": "moteriška"}], "en": [{"word": "journalism"}], "ru": [{"word": "журналистика"}]},
+  {"lt": [{"word": "žuvis", "stressed": "žuvìs", "gender": "moteriška"}], "en": [{"word": "fish"}], "ru": [{"word": "рыба"}]},
+  {"lt": [{"word": "žvaigždė", "stressed": "žvaigždė̃", "gender": "moteriška"}], "en": [{"word": "star"}], "ru": [{"word": "звезда"}]},
+  {"lt": [{"word": "žvakė", "stressed": "žvãkė", "gender": "moteriška"}], "en": [{"word": "candle"}], "ru": [{"word": "свеча"}]},
+  {"lt": [{"word": "žvakutė", "stressed": "žvakùtė", "gender": "moteriška"}], "en": [{"word": "small candle"}], "ru": [{"word": "свечка"}]}
+]
