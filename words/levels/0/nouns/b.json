@@ -1,0 +1,22 @@
+[
+  {"lt": [{"word": "bagažas", "stressed": "bagãžas", "gender": "vyriška"}], "en": [{"word": "luggage"}], "ru": [{"word": "багаж"}]},
+  {"lt": [{"word": "baklažanas", "stressed": "baklažãnas", "gender": "vyriška"}], "en": [{"word": "aubergine"}], "ru": [{"word": "баклажан"}]},
+  {"lt": [{"word": "baldai", "stressed": "baldaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "furniture"}], "ru": [{"word": "мебель"}]},
+  {"lt": [{"word": "balionas", "stressed": "balionas", "gender": "vyriška"}], "en": [{"word": "balloon"}], "ru": [{"word": "воздушный шар"}]},
+  {"lt": [{"word": "bankas", "stressed": "bañkas", "gender": "vyriška"}], "en": [{"word": "bank"}], "ru": [{"word": "банк"}]},
+  {"lt": [{"word": "baras", "stressed": "bãras", "gender": "vyriška"}], "en": [{"word": "bar"}], "ru": [{"word": "бар"}]},
+  {"lt": [{"word": "barščiai", "stressed": "barščiaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "borscht"}], "ru": [{"word": "борщ"}]},
+  {"lt": [{"word": "batai", "stressed": "bãtai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "shoes"}], "ru": [{"word": "обувь"}]},
+  {"lt": [{"word": "bažnyčia", "stressed": "bažnýčia", "gender": "moteriška"}], "en": [{"word": "church"}], "ru": [{"word": "церковь"}]},
+  {"lt": [{"word": "bendrabutis", "stressed": "bendrabùtis", "gender": "vyriška"}], "en": [{"word": "dormitory"}], "ru": [{"word": "общежитие"}]},
+  {"lt": [{"word": "bendradarbis", "stressed": "bendradárbis", "gender": "vyriška"}], "en": [{"word": "colleague"}], "ru": [{"word": "коллега"}]},
+  {"lt": [{"word": "berniukas", "stressed": "berniùkas", "gender": "vyriška"}], "en": [{"word": "boy"}], "ru": [{"word": "мальчик"}]},
+  {"lt": [{"word": "biblioteka", "stressed": "bibliotekà", "gender": "moteriška"}], "en": [{"word": "library"}], "ru": [{"word": "библиотека"}]},
+  {"lt": [{"word": "bilietas", "stressed": "biliètas", "gender": "vyriška"}], "en": [{"word": "ticket"}], "ru": [{"word": "билет"}]},
+  {"lt": [{"word": "biuras", "stressed": "biūras", "gender": "vyriška"}], "en": [{"word": "office"}], "ru": [{"word": "офис"}]},
+  {"lt": [{"word": "blynai", "stressed": "blýnai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "pancakes"}], "ru": [{"word": "блины"}]},
+  {"lt": [{"word": "brolis", "stressed": "brólis", "gender": "vyriška"}], "en": [{"word": "brother"}], "ru": [{"word": "брат"}]},
+  {"lt": [{"word": "burna", "stressed": "burnà", "gender": "moteriška"}], "en": [{"word": "mouth"}], "ru": [{"word": "рот"}]},
+  {"lt": [{"word": "butas", "stressed": "bùtas", "gender": "vyriška"}], "en": [{"word": "apartment"}], "ru": [{"word": "квартира"}]},
+  {"lt": [{"word": "butelis", "stressed": "bùtelis", "gender": "vyriška"}], "en": [{"word": "bottle"}], "ru": [{"word": "бутылка"}]}
+]
