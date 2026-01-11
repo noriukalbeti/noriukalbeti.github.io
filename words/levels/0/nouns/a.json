@@ -7,7 +7,6 @@
   {"lt": [{"word": "akademija", "stressed": "akadèmija", "gender": "moteriška"}], "en": [{"word": "academy"}], "ru": [{"word": "академия"}]},
   {"lt": [{"word": "akiniai", "stressed": "akìniai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "glasses"}], "ru": [{"word": "очки"}]},
   {"lt": [{"word": "akis", "stressed": "akìs", "gender": "moteriška"}], "en": [{"word": "eye"}], "ru": [{"word": "глаз"}]},
-  {"lt": [{"word": "aktorius", "stressed": "ãktorius", "gender": "vyriška"}], "en": [{"word": "actor"}], "ru": [{"word": "актер"}]},
   {"lt": [{"word": "alus", "stressed": "alùs", "gender": "vyriška"}], "en": [{"word": "beer"}], "ru": [{"word": "пиво"}]},
   {"lt": [{"word": "alėja", "stressed": "alė́ja", "gender": "moteriška"}], "en": [{"word": "alley"}, {"word": "avenue"}], "ru": [{"word": "аллея"}]},
   {"lt": [{"word": "aliejus", "stressed": "aliẽjus", "gender": "vyriška"}], "en": [{"word": "oil"}], "ru": [{"word": "масло"}]},
@@ -25,7 +24,5 @@
   {"lt": [{"word": "automobilis", "stressed": "automobìlis", "gender": "vyriška"}], "en": [{"word": "car"}], "ru": [{"word": "автомобиль"}, {"word": "машина"}]},
   {"lt": [{"word": "autoservisas", "stressed": "autosèrvisas", "gender": "vyriška"}], "en": [{"word": "car service"}], "ru": [{"word": "автосервис"}]},
   {"lt": [{"word": "avalynė", "stressed": "avalỹnė", "gender": "moteriška"}], "en": [{"word": "footwear"}, {"word": "shoes"}], "ru": [{"word": "обувь"}]},
-  {"lt": [{"word": "avarija", "stressed": "avãrija", "gender": "moteriška"}], "en": [{"word": "accident"}, {"word": "crash"}], "ru": [{"word": "авария"}]},
-  {"lt": [{"word": "avietė", "stressed": "aviẽtė", "gender": "moteriška"}], "en": [{"word": "raspberry"}], "ru": [{"word": "малина"}]},
-  {"lt": [{"word": "ąžuolas", "stressed": "ą́žuolas", "gender": "vyriška"}], "en": [{"word": "oak"}], "ru": [{"word": "дуб"}]}
+  {"lt": [{"word": "avarija", "stressed": "avãrija", "gender": "moteriška"}], "en": [{"word": "accident"}, {"word": "crash"}], "ru": [{"word": "авария"}]}
 ]

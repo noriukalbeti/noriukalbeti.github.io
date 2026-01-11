@@ -7,16 +7,9 @@
   {"lt": [{"word": "cigaretė", "stressed": "cigarètė", "gender": "moteriška"}], "en": [{"word": "cigarette"}], "ru": [{"word": "сигарета"}, {"word": "сижка"}]},
   {"lt": [{"word": "cirkas", "stressed": "cìrkas", "gender": "vyriška"}], "en": [{"word": "circus"}], "ru": [{"word": "цирк"}]},
   {"lt": [{"word": "citrina", "stressed": "citrinà", "gender": "moteriška"}], "en": [{"word": "lemon"}], "ru": [{"word": "лимон"}]},
-  {"lt": [{"word": "cukrinė", "stressed": "cukrìnė", "gender": "moteriška"}], "en": [{"word": "sugar bowl"}], "ru": [{"word": "сахарница"}]},
   {"lt": [{"word": "cukinija", "stressed": "cukinijà", "gender": "moteriška"}], "en": [{"word": "zucchini"}, {"word": "courgette"}], "ru": [{"word": "цукини"}, {"word": "кабачок"}]},
-  {"lt": [{"word": "cukrus", "stressed": "cùkrus", "gender": "vyriška"}], "en": [{"word": "sugar"}], "ru": [{"word": "сахар"}, {"word": "сахарок"}]},
+  {"lt": [{"word": "cukrus", "stressed": "cùkrus", "gender": "vyriška"}], "en": [{"word": "sugar"}], "ru": [{"word": "сахар"}]},
   {"lt": [{"word": "čekis", "stressed": "čèkis", "gender": "vyriška"}], "en": [{"word": "receipt"}, {"word": "check"}], "ru": [{"word": "чек"}]},
   {"lt": [{"word": "čempionas", "stressed": "čempiònas", "gender": "vyriška"}], "en": [{"word": "champion"}], "ru": [{"word": "чемпион"}]},
-  {"lt": [{"word": "česnakas", "stressed": "česnãkas", "gender": "vyriška"}], "en": [{"word": "garlic"}], "ru": [{"word": "чеснок"}]},
-  {"lt": [{"word": "čiaupas", "stressed": "čiáupas", "gender": "vyriška"}], "en": [{"word": "tap"}, {"word": "faucet"}], "ru": [{"word": "кран"}]},
-  {"lt": [{"word": "chipsai", "stressed": "čìpsai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "chips"}], "ru": [{"word": "чипсы"}]},
-  {"lt": [{"word": "čiuožėjas", "stressed": "čiuožė́jas", "gender": "vyriška"}], "en": [{"word": "skater"}], "ru": [{"word": "конькобежец"}]},
-  {"lt": [{"word": "čiuožinėjimas", "stressed": "čiuožinė́jimas", "gender": "vyriška"}], "en": [{"word": "skating"}], "ru": [{"word": "катание"}]},
-  {"lt": [{"word": "čiuožykla", "stressed": "čiuožyklà", "gender": "moteriška"}], "en": [{"word": "skating rink"}], "ru": [{"word": "каток"}]},
-  {"lt": [{"word": "čiužinys", "stressed": "čiužinỹs", "gender": "vyriška"}], "en": [{"word": "mattress"}], "ru": [{"word": "матрас"}]}
+  {"lt": [{"word": "chipsai", "stressed": "čìpsai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "chips"}], "ru": [{"word": "чипсы"}]}
 ]

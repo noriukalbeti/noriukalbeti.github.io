@@ -5,15 +5,10 @@
   {"lt": [{"word": "festivalis", "stressed": "festivãlis", "gender": "vyriška"}], "en": [{"word": "festival"}], "ru": [{"word": "фестиваль"}]},
   {"lt": [{"word": "figūra", "stressed": "figūrà", "gender": "moteriška"}], "en": [{"word": "figure"}], "ru": [{"word": "фигура"}]},
   {"lt": [{"word": "filmas", "stressed": "fìlmas", "gender": "vyriška"}], "en": [{"word": "movie"}, {"word": "film"}], "ru": [{"word": "фильм"}]},
-  {"lt": [{"word": "filologija", "stressed": "filològija", "gender": "moteriška"}], "en": [{"word": "philology"}], "ru": [{"word": "филология"}]},
-  {"lt": [{"word": "filologas", "stressed": "filològas", "gender": "vyriška"}], "en": [{"word": "philologist"}], "ru": [{"word": "филолог"}]},
-  {"lt": [{"word": "filosofas", "stressed": "filòsofas", "gender": "vyriška"}], "en": [{"word": "philosopher"}], "ru": [{"word": "философ"}]},
-  {"lt": [{"word": "filosofija", "stressed": "filosòfija", "gender": "moteriška"}], "en": [{"word": "philosophy"}], "ru": [{"word": "философия"}]},
   {"lt": [{"word": "fizika", "stressed": "fìzika", "gender": "moteriška"}], "en": [{"word": "physics"}], "ru": [{"word": "физика"}]},
   {"lt": [{"word": "flomasteris", "stressed": "flomásteris", "gender": "vyriška"}], "en": [{"word": "felt-tip pen"}], "ru": [{"word": "фломастер"}]},
   {"lt": [{"word": "forma", "stressed": "fòrma", "gender": "moteriška"}], "en": [{"word": "form"}, {"word": "shape"}], "ru": [{"word": "форма"}]},
   {"lt": [{"word": "fotografas", "stressed": "fotògrafas", "gender": "vyriška"}], "en": [{"word": "photographer"}], "ru": [{"word": "фотограф"}]},
   {"lt": [{"word": "fotografija", "stressed": "fotogrãfija", "gender": "moteriška"}], "en": [{"word": "photography"}], "ru": [{"word": "фотография", "context": "искусство/снимок"}]},
-  {"lt": [{"word": "fotelis", "stressed": "fòtelis", "gender": "vyriška"}], "en": [{"word": "armchair"}], "ru": [{"word": "кресло"}]},
   {"lt": [{"word": "futbolas", "stressed": "fùtbolas", "gender": "vyriška"}], "en": [{"word": "football"}, {"word": "soccer"}], "ru": [{"word": "футбол"}]}
 ]

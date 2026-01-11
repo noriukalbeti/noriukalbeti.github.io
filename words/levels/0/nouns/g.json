@@ -3,10 +3,6 @@
   {"lt": [{"word": "galva", "stressed": "galvà", "gender": "moteriška"}], "en": [{"word": "head"}], "ru": [{"word": "голова"}]},
   {"lt": [{"word": "gatvė", "stressed": "gatvė", "gender": "moteriška"}], "en": [{"word": "street"}], "ru": [{"word": "улица"}]},
   {"lt": [{"word": "gėlė", "stressed": "gėlė̃", "gender": "moteriška"}], "en": [{"word": "flower"}], "ru": [{"word": "цветок"}]},
-  {"lt": [{"word": "gerklė", "stressed": "gerklė̃", "gender": "moteriška"}], "en": [{"word": "throat"}], "ru": [{"word": "горло"}]},
-  {"lt": [{"word": "gėrimas", "stressed": "gė́rimas", "gender": "vyriška"}], "en": [{"word": "drink"}, {"word": "beverage"}], "ru": [{"word": "напиток"}]},
-  {"lt": [{"word": "gydytojas", "stressed": "gýdytojas", "gender": "vyriška"}], "en": [{"word": "doctor"}], "ru": [{"word": "врач"}]},
-  {"lt": [{"word": "gydymas", "stressed": "gýdymas", "gender": "vyriška"}], "en": [{"word": "treatment"}], "ru": [{"word": "лечение"}]},
   {"lt": [{"word": "gyvenimas", "stressed": "gyvẽnimas", "gender": "vyriška"}], "en": [{"word": "life"}], "ru": [{"word": "жизнь"}]},
   {"lt": [{"word": "gyventojas", "stressed": "gyvéntojas", "gender": "vyriška"}], "en": [{"word": "resident"}], "ru": [{"word": "житель"}]},
   {"lt": [{"word": "giminaitis", "stressed": "gimináitis", "gender": "vyriška"}], "en": [{"word": "relative"}], "ru": [{"word": "родственник"}]},
@@ -14,12 +10,5 @@
   {"lt": [{"word": "gimtadienis", "stressed": "gimtãdienis", "gender": "vyriška"}], "en": [{"word": "birthday"}], "ru": [{"word": "день рождения"}]},
   {"lt": [{"word": "gira", "stressed": "girà", "gender": "moteriška"}], "en": [{"word": "kvass"}], "ru": [{"word": "квас"}]},
   {"lt": [{"word": "gitara", "stressed": "gitãra", "gender": "moteriška"}], "en": [{"word": "guitar"}], "ru": [{"word": "гитара"}]},
-  {"lt": [{"word": "gyvūnas", "stressed": "gyvū̃nas", "gender": "vyriška"}], "en": [{"word": "animal"}], "ru": [{"word": "животное"}]},
-  {"lt": [{"word": "grietinė", "stressed": "grietìnė", "gender": "moteriška"}], "en": [{"word": "sour cream"}], "ru": [{"word": "сметана"}]},
-  {"lt": [{"word": "grietinėlė", "stressed": "grietinė́lė", "gender": "moteriška"}], "en": [{"word": "cream"}], "ru": [{"word": "сливки", "context": "продукт"}]},
-  {"lt": [{"word": "grikiai", "stressed": "griкiaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "buckwheat"}], "ru": [{"word": "греча"}]},
-  {"lt": [{"word": "gripas", "stressed": "grìpas", "gender": "vyriška"}], "en": [{"word": "flu"}], "ru": [{"word": "грипп"}]},
-  {"lt": [{"word": "grybas", "stressed": "grỹbas", "gender": "vyriška"}], "en": [{"word": "mushroom"}], "ru": [{"word": "гриб"}]},
-  {"lt": [{"word": "grūdas", "stressed": "grū́das", "gender": "vyriška"}], "en": [{"word": "grain"}], "ru": [{"word": "зерно"}]},
   {"lt": [{"word": "grupė", "stressed": "grùpė", "gender": "moteriška"}], "en": [{"word": "group"}], "ru": [{"word": "группа"}]}
 ]

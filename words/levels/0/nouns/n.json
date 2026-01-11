@@ -2,15 +2,6 @@
   {"lt": [{"word": "naktis", "stressed": "naktìs", "gender": "moteriška"}], "en": [{"word": "night"}], "ru": [{"word": "ночь"}]},
   {"lt": [{"word": "namas", "stressed": "nãmas", "gender": "vyriška"}], "en": [{"word": "house"}], "ru": [{"word": "дом"}]},
   {"lt": [{"word": "namai", "stressed": "namaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "home"}], "ru": [{"word": "дом", "context": "домашний очаг"}]},
-  {"lt": [{"word": "narys", "stressed": "narỹs", "gender": "vyriška"}], "en": [{"word": "member"}], "ru": [{"word": "член", "context": "организации/семьи"}]},
   {"lt": [{"word": "nėra", "stressed": "nėrà", "gender": "moteriška"}], "en": [{"word": "absence"}], "ru": [{"word": "отсутствие"}]},
-  {"lt": [{"word": "nerimas", "stressed": "nèrimas", "gender": "vyriška"}], "en": [{"word": "anxiety"}], "ru": [{"word": "тревога"}]},
-  {"lt": [{"word": "nosis", "stressed": "nósis", "gender": "moteriška"}], "en": [{"word": "nose"}], "ru": [{"word": "нос"}]},
-  {"lt": [{"word": "noras", "stressed": "nòras", "gender": "vyriška"}], "en": [{"word": "wish"}], "ru": [{"word": "желание"}]},
-  {"lt": [{"word": "nuolaida", "stressed": "nuolaida", "gender": "moteriška"}], "en": [{"word": "discount"}], "ru": [{"word": "скидка"}]},
-  {"lt": [{"word": "nuomonė", "stressed": "nuomonė", "gender": "moteriška"}], "en": [{"word": "opinion"}], "ru": [{"word": "мнение"}]},
-  {"lt": [{"word": "nuotaika", "stressed": "nuotaika", "gender": "moteriška"}], "en": [{"word": "mood"}], "ru": [{"word": "настроение"}]},
-  {"lt": [{"word": "nuotrauka", "stressed": "nuotrauka", "gender": "moteriška"}], "en": [{"word": "photo"}], "ru": [{"word": "фотография"}]},
-  {"lt": [{"word": "nugara", "stressed": "nugara", "gender": "moteriška"}], "en": [{"word": "back"}], "ru": [{"word": "спина"}]},
   {"lt": [{"word": "nuoma", "stressed": "nuomà", "gender": "moteriška"}], "en": [{"word": "rent"}], "ru": [{"word": "аренда"}]}
 ]

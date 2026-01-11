@@ -1,14 +1,7 @@
 [
   {"lt": [{"word": "ugnis", "stressed": "ugnìs", "gender": "moteriška"}], "en": [{"word": "fire"}], "ru": [{"word": "огонь"}]},
   {"lt": [{"word": "universitetas", "stressed": "universitètas", "gender": "vyriška"}], "en": [{"word": "university"}], "ru": [{"word": "университет"}]},
-  {"lt": [{"word": "uodega", "stressed": "uodegà", "gender": "moteriška"}], "en": [{"word": "tail"}], "ru": [{"word": "хвост"}]},
   {"lt": [{"word": "uogas", "stressed": "úogas", "gender": "vyriška"}], "en": [{"word": "berry"}], "ru": [{"word": "ягода"}]},
   {"lt": [{"word": "uostas", "stressed": "úostas", "gender": "vyriška"}], "en": [{"word": "port"}], "ru": [{"word": "порт"}]},
-  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}]},
-  {"lt": [{"word": "užuolaida", "stressed": "užuolaida", "gender": "moteriška"}], "en": [{"word": "curtain"}], "ru": [{"word": "занавеска"}]},
-  {"lt": [{"word": "užduotis", "stressed": "užduotìs", "gender": "moteriška"}], "en": [{"word": "task"}, {"word": "assignment"}], "ru": [{"word": "задание"}]},
-  {"lt": [{"word": "užkandis", "stressed": "ùžkandis", "gender": "vyriška"}], "en": [{"word": "snack"}, {"word": "appetizer"}], "ru": [{"word": "закуска"}]},
-  {"lt": [{"word": "užrašas", "stressed": "ùžrašas", "gender": "vyriška"}], "en": [{"word": "inscription"}, {"word": "note"}], "ru": [{"word": "надпись"}]},
-  {"lt": [{"word": "užsienietis", "stressed": "užsienniẽtis", "gender": "vyriška"}], "en": [{"word": "foreigner"}], "ru": [{"word": "иностранец"}]},
-  {"lt": [{"word": "užsienis", "stressed": "ùžsienis", "gender": "vyriška"}], "en": [{"word": "abroad"}, {"word": "foreign country"}], "ru": [{"word": "заграница"}]}
+  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}]}
 ]
