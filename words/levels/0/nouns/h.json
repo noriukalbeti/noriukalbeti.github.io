@@ -2,7 +2,5 @@
   {"lt": [{"word": "hamburgeris", "stressed": "hambùrgeris", "gender": "vyriška"}], "en": [{"word": "hamburger"}], "ru": [{"word": "гамбургер"}]},
   {"lt": [{"word": "herbas", "stressed": "herbas", "gender": "vyriška"}], "en": [{"word": "coat of arms"}], "ru": [{"word": "герб"}]},
   {"lt": [{"word": "himnas", "stressed": "hìmnas", "gender": "vyriška"}], "en": [{"word": "anthem"}], "ru": [{"word": "гимн"}]},
-  {"lt": [{"word": "hirurgas", "stressed": "hirùrgas", "gender": "vyriška"}], "en": [{"word": "surgeon"}], "ru": [{"word": "хирург"}]},
-  {"lt": [{"word": "istorija", "stressed": "istòrija", "gender": "moteriška"}], "en": [{"word": "history"}], "ru": [{"word": "история"}]},
   {"lt": [{"word": "humoras", "stressed": "humòras", "gender": "vyriška"}], "en": [{"word": "humor"}], "ru": [{"word": "юмор"}]}
 ]
