@@ -14,7 +14,7 @@
   {"lt": [{"word": "labai", "forms": "labai̇̃"}], "en": [{"word": "very"}], "ru": [{"word": "очень"}], "context": "степень"},
   {"lt": [{"word": "lengvai", "forms": "lengvai̇̃", "opposite": "sunkiai̇̃"}], "en": [{"word": "easily"}], "ru": [{"word": "легко"}], "context": "задача"},
   {"lt": [{"word": "lėtai", "forms": "lėtai̇̃", "opposite": "grei̇̃tai"}], "en": [{"word": "slowly"}], "ru": [{"word": "медленно"}], "context": "темп"},
-  {"lt": [{"word": "linksmai", "forms": "linksmai̇̃", "opposite": "liūdnai̇̃"}], "en": [{"word": "cheerfully"}], "ru": [{"word": "весело"}], "context": "настроение"},
+  {"lt": [{"word": "linksmai", "forms": "linksmai̇̃", "opposite": "liūdnai̇̃"}], "en": [{"word": "cheerfully"}], "ru": [{"word": "весело"}, {"word": "радостно"}], "context": "настроение"},
   {"lt": [{"word": "liūdnai", "forms": "liūdnai̇̃", "opposite": "linksmai̇̃"}], "en": [{"word": "sadly"}], "ru": [{"word": "грустно"}], "context": "настроение"},
   {"lt": [{"word": "maloniai", "forms": "malõniai"}], "en": [{"word": "pleasantly"}], "ru": [{"word": "приятно"}], "context": "общение"},
   {"lt": [{"word": "mažai", "forms": "mãžai", "opposite": "daũg"}], "en": [{"word": "little / few"}], "ru": [{"word": "мало"}], "context": "количество"},
