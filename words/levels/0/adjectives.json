@@ -16,7 +16,7 @@
   {"lt": [{"word": "laisvas", "forms": "lai̇̃svas, laisvà", "opposite": "užimtas"}], "en": [{"word": "free"}], "ru": [{"word": "свободный"}], "context": "место, время"},
   {"lt": [{"word": "lengvas", "forms": "leng̃vas, lengvà", "opposite": "sunkus"}], "en": [{"word": "easy / light"}], "ru": [{"word": "легкий"}], "context": "вес, задача"},
   {"lt": [{"word": "lėtas", "forms": "lė́tas, lėtà", "opposite": "greitas"}], "en": [{"word": "slow"}], "ru": [{"word": "медленный"}], "context": "темп"},
-  {"lt": [{"word": "linksmas", "forms": "links̃mas, linksmà", "opposite": "liūdnas"}], "en": [{"word": "cheerful"}], "ru": [{"word": "веселый"}], "context": "настроение"},
+  {"lt": [{"word": "linksmas", "forms": "links̃mas, linksmà", "opposite": "liūdnas"}], "en": [{"word": "cheerful"}], "ru": [{"word": "веселый"}, {"word": "радостный"}], "context": "настроение"},
   {"lt": [{"word": "liūdnas", "forms": "liū̃dnas, liūdnà", "opposite": "linksmas"}], "en": [{"word": "sad"}], "ru": [{"word": "грустный"}], "context": "настроение"},
   {"lt": [{"word": "mandagus", "forms": "mandagùs, mandagi̇̀", "opposite": "grubus"}], "en": [{"word": "polite"}], "ru": [{"word": "вежливый"}], "context": "поведение"},
   {"lt": [{"word": "mažas", "forms": "mãžas, mažà", "opposite": "didelis"}], "en": [{"word": "small"}], "ru": [{"word": "маленький"}], "context": "размер"},
