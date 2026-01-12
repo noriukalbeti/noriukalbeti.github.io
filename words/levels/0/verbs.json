@@ -15,7 +15,7 @@
   {"lt": [{"word": "imti", "forms": "im̃ti, ima, ėmė", "conjugation": "I"}], "en": [{"word": "to take"}], "ru": [{"word": "брать"}], "context": "руками"},
   {"lt": [{"word": "kalbėti", "forms": "kalbė́ti, kalba, kalbėjo", "conjugation": "I"}], "en": [{"word": "to speak"}, {"word": "to talk"}], "ru": [{"word": "говорить"}, {"word": "разговаривать"}, {"word": "болтать"}], "context": "на языке, беседа"},
   {"lt": [{"word": "klausti", "forms": "kláusti, klausia, klausė", "conjugation": "I"}], "en": [{"word": "to ask"}], "ru": [{"word": "спрашивать"}], "context": "вопрос"},
-  {"lt": [{"word": "lankyti", "forms": "lankýti, lanko, lankė", "conjugation": "III"}], "en": [{"word": "to visit"}, {"word": "to attend"}], "ru": [{"word": "посещать"}, {"word": "хаживать"}], "context": "школу, курсы"},
+  {"lt": [{"word": "lankyti", "forms": "lankýti, lanko, lankė", "conjugation": "III"}], "en": [{"word": "to visit"}, {"word": "to attend"}], "ru": [{"word": "посещать"}, {"word": "посетить"}, {"word": "навещать"}, {"word": "проведывать"}, {"word": "проведать"}], "context": "школу, курсы"},
   {"lt": [{"word": "laukti", "forms": "láukti, laukia, laukė", "conjugation": "I"}], "en": [{"word": "to wait"}], "ru": [{"word": "ждать"}, {"word": "обождать"}], "context": "кого/что"},
   {"lt": [{"word": "matyti", "forms": "matýti, mato, matė", "conjugation": "III"}], "en": [{"word": "to see"}], "ru": [{"word": "видеть"}, {"word": "зреть"}, {"word": "палить"}], "context": "зрительное восприятие"},
   {"lt": [{"word": "miegoti", "forms": "miegóti, miega, miegojo", "conjugation": "I"}], "en": [{"word": "to sleep"}], "ru": [{"word": "спать"}, {"word": "дрыхнуть"}], "context": "состояние сна"},
