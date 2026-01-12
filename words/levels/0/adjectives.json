@@ -10,7 +10,7 @@
   {"lt": [{"word": "gražus", "forms": "gražùs, graži̇̀", "opposite": "negražus"}], "en": [{"word": "beautiful"}], "ru": [{"word": "красивый"}], "context": "внешность"},
   {"lt": [{"word": "greitas", "forms": "grei̇̃tas, greità", "opposite": "lėtas"}], "en": [{"word": "fast"}], "ru": [{"word": "быстрый"}], "context": "движение"},
   {"lt": [{"word": "ilgas", "forms": "il̃gas, ilgà", "opposite": "trumpas"}], "en": [{"word": "long"}], "ru": [{"word": "длинный"}], "context": "длина"},
-  {"lt": [{"word": "jaunas", "forms": "jáunas, jaunà", "opposite": "senas"}], "en": [{"word": "young"}], "ru": [{"word": "молодой"}], "context": "возраст"},
+  {"lt": [{"word": "jaunas", "forms": "jáunas, jaunà", "opposite": "senas"}], "en": [{"word": "young"}], "ru": [{"word": "молодой"}, {"word": "юный"}], "context": "возраст"},
   {"lt": [{"word": "juodas", "forms": "juõdas, juodà", "opposite": "baltas"}], "en": [{"word": "black"}], "ru": [{"word": "черный"}], "context": "цвет"},
   {"lt": [{"word": "kietas", "forms": "kiẽtas, kietà", "opposite": "minkštas"}], "en": [{"word": "hard"}], "ru": [{"word": "твёрдый"}], "context": "поверхность"},
   {"lt": [{"word": "laisvas", "forms": "lai̇̃svas, laisvà", "opposite": "užimtas"}], "en": [{"word": "free"}], "ru": [{"word": "свободный"}], "context": "место, время"},

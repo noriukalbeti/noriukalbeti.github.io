@@ -1,0 +1,13 @@
+[
+  {"lt": [{"word": "anksti", "forms": "anksti̇̀", "opposite": "vėlai̇̃"}], "en": [{"word": "early"}], "ru": [{"word": "рано"}], "context": "время"},
+  {"lt": [{"word": "arti", "forms": "arti̇̀", "opposite": "toli̇̀"}], "en": [{"word": "near"}], "ru": [{"word": "близко"}], "context": "расстояние"},
+  {"lt": [{"word": "atgal", "forms": "atgal̃", "opposite": "pirmỹn"}], "en": [{"word": "back"}], "ru": [{"word": "назад"}], "context": "направление"},
+  {"lt": [{"word": "nuolat", "forms": "nuõlat"}], "en": [{"word": "constantly"}], "ru": [{"word": "постоянно"}], "context": "частота"},
+  {"lt": [{"word": "mandagiai", "forms": "mandagiai̇̃", "opposite": "grubiai̇̃"}], "en": [{"word": "politely"}], "ru": [{"word": "вежливо"}], "context": "поведение"},
+  {"lt": [{"word": "drąsiai", "forms": "drą̃siai", "opposite": "bailiai̇̃"}], "en": [{"word": "boldly"}], "ru": [{"word": "смело"}], "context": "поведение"},
+  {"lt": [{"word": "klaidingai", "forms": "klaidingai̇̃", "opposite": "teisi̇̀ngai"}], "en": [{"word": "wrongly"}], "ru": [{"word": "неправильно"}], "context": "оценка"},
+  {"lt": [{"word": "švariai", "forms": "švariai̇̃", "opposite": "purvinai̇̃"}], "en": [{"word": "cleanly"}], "ru": [{"word": "чисто"}], "context": "состояние"},
+  {"lt": [{"word": "toli", "forms": "toli̇̀", "opposite": "arti̇̀"}], "en": [{"word": "far"}], "ru": [{"word": "далеко"}], "context": "расстояние"},
+  {"lt": [{"word": "vėlai", "forms": "vėlai̇̃", "opposite": "anksti̇̀"}], "en": [{"word": "late"}], "ru": [{"word": "поздно"}], "context": "время"},
+  {"lt": [{"word": "visai", "forms": "visai̇̃"}], "en": [{"word": "completely"}], "ru": [{"word": "совсем"}], "context": "степень"}
+]

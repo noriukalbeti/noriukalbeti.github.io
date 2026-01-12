@@ -102,7 +102,7 @@
   {"lt": [{"word": "tik", "stressed": "tìk"}], "ru": [{"word": "только"}]},
 
   {"lt": [{"word": "ačiū", "stressed": "ãčiū"}], "ru": [{"word": "спасибо"}]},
-  {"lt": [{"word": "atsiprašau", "stressed": "atsiprašaũ"}], "ru": [{"word": "извините"}, {"word": "простите"}, {"word": "прошу прощения"}]},
+  {"lt": [{"word": "atsiprašau", "stressed": "atsiprašaũ"}], "ru": [{"word": "извините"}, {"word": "извиняюсь"}, {"word": "простите"}, {"word": "простите меня"}, {"word": "прошу прощения"}]},
   {"lt": [{"word": "iki", "stressed": "ikì"}], "ru": [{"word": "пока"}]},
   {"lt": [{"word": "iki pasimatymo", "stressed": "ikì pasimãtymo"}], "ru": [{"word": "до свидания"}, {"word": "до встречи"}]},
   {"lt": [{"word": "laba diena", "stressed": "labà dienà"}], "ru": [{"word": "добрый день"}]},
