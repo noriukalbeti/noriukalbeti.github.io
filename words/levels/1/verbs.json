@@ -1,3 +1,19 @@
 [
-
+  {"lt": [{"word": "atrodyti", "forms": "atródyti, atrodo, atrodė", "conjugation": "III"}], "en": [{"word": "to look like"}, {"word": "to seem"}], "ru": [{"word": "выглядеть"}, {"word": "казаться"}], "context": "внешний вид или мнение"},
+  {"lt": [{"word": "aplankyti", "forms": "aplankýti, aplanko, aplankė", "conjugation": "III"}], "en": [{"word": "to visit"}], "ru": [{"word": "посетить"}, {"word": "навестить"}], "context": "людей или места"},
+  {"lt": [{"word": "apsirengti", "forms": "apsireñgti, apsirengia, apsirengė", "conjugation": "I"}], "en": [{"word": "to get dressed"}], "ru": [{"word": "одеться"}, {"word": "одеваться"}], "context": "одежду на себя"},
+  {"lt": [{"word": "atidaryti", "forms": "atidarýti, atidaro, atidarė", "conjugation": "III"}], "en": [{"word": "to open"}], "ru": [{"word": "открыть"}, {"word": "отомкнуть"}], "context": "окно, дверь, счет"},
+  {"lt": [{"word": "atostogauti", "forms": "atostogáuti, atostogauja, atostogavo", "conjugation": "I"}], "en": [{"word": "to be on holiday"}], "ru": [{"word": "отдыхать"}], "context": "быть в отпуске"},
+  {"lt": [{"word": "atsikelti", "forms": "atsikél̃ti, atsikelia, atsikėlė", "conjugation": "I"}], "en": [{"word": "to get up"}], "ru": [{"word": "встать"}, {"word": "подняться"}], "context": "после сна"},
+  {"lt": [{"word": "baigti", "forms": "báigti, baigia, baigė", "conjugation": "I"}], "en": [{"word": "to finish"}, {"word": "to end"}], "ru": [{"word": "закончить"}, {"word": "завершить"}], "context": "работу, учебу"},
+  {"lt": [{"word": "bėgti", "forms": "bė́gti, bėga, bėgo", "conjugation": "I"}], "en": [{"word": "to run"}], "ru": [{"word": "бежать"}], "context": "быстрое движение"},
+  {"lt": [{"word": "bijoti", "forms": "bijóti, bijo, bijojo", "conjugation": "III"}], "en": [{"word": "to be afraid"}, {"word": "to fear"}], "ru": [{"word": "бояться"}], "context": "кого/чего"},
+  {"lt": [{"word": "džiaugtis", "forms": "džiaũgtis, džiaugiasi, džiaugėsi", "conjugation": "I"}], "en": [{"word": "to rejoice"}, {"word": "to be happy"}], "ru": [{"word": "радоваться"}], "context": "чему-либо"},
+  {"lt": [{"word": "groti", "forms": "gróti, groja, grojo", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "context": "муз. инструмент"},
+  {"lt": [{"word": "jausti", "forms": "jaũsti, jaučia, jautė", "conjugation": "I"}], "en": [{"word": "to feel"}], "ru": [{"word": "чувствовать"}], "context": "о самочувствии"},
+  {"lt": [{"word": "manyti", "forms": "manýti, mano, manė", "conjugation": "III"}], "en": [{"word": "to think"}, {"word": "to believe"}], "ru": [{"word": "полагать"}, {"word": "считать"}, {"word": "думать"}], "context": "выражать мнение"},
+  {"lt": [{"word": "skubėti", "forms": "skubė́ti, skuba, skubėjo", "conjugation": "I"}], "en": [{"word": "to hurry"}], "ru": [{"word": "спешить"}, {"word": "торопиться"}, {"word": "лететь пулей"}], "context": "нехватка времени"},
+  {"lt": [{"word": "veikti", "forms": "veĩkti, veikia, veikė", "conjugation": "I"}], "en": [{"word": "to do"}, {"word": "to act"}], "ru": [{"word": "делать"}, {"word": "действовать"}, {"word": "заниматься"}, {"word": "влиять"}], "context": "заниматься чем-то"},
+  {"lt": [{"word": "vėluoti", "forms": "vėlúoti, vėluoja, vėlavo", "conjugation": "I"}], "en": [{"word": "to be late"}], "ru": [{"word": "опаздывать"}, {"word": "прошляпить (время)"}], "context": "нарушать график"},
+  {"lt": [{"word": "valyti", "forms": "valýti, valo, valė", "conjugation": "III"}], "en": [{"word": "to clean"}, {"word": "to brush"}], "ru": [{"word": "чистить"}, {"word": "драить"}], "context": "зубы, обувь"}
 ]

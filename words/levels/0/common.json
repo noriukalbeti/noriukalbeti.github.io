@@ -181,7 +181,7 @@
 
   {"lt": [{"word": "ant", "stressed": "añt"}], "ru": [{"word": "на"}], "context": "поверхность"},
   {"lt": [{"word": "apie", "stressed": "apiẽ"}], "ru": [{"word": "о"}, {"word": "об"}]},
-  {"lt": [{"word": "aplink", "stressed": "apliñk"}], "ru": [{"word": "вокруг"}]},
+  {"lt": [{"word": "aplink", "stressed": "apliñk"}], "ru": [{"word": "вокруг"}, {"word": "кругом"}]},
   {"lt": [{"word": "be", "stressed": "bè"}], "ru": [{"word": "без"}]},
   {"lt": [{"word": "dėl", "stressed": "dė̃l"}], "ru": [{"word": "из-за"}, {"word": "по причине"}]},
   {"lt": [{"word": "į", "stressed": "į̃"}], "ru": [{"word": "в"}], "context": "куда"},
@@ -193,7 +193,7 @@
   {"lt": [{"word": "pas", "stressed": "pàs"}], "ru": [{"word": "к"}, {"word": "у"}], "context": "людей"},
   {"lt": [{"word": "per", "stressed": "per̃"}], "ru": [{"word": "сквозь"}]},
   {"lt": [{"word": "po", "stressed": "põ"}], "ru": [{"word": "по"}, {"word": "под"}, {"word": "после"}]},
-  {"lt": [{"word": "prie", "stressed": "priẽ"}], "ru": [{"word": "к"}, {"word": "у"}, {"word": "при"}], "context": "места"},
+  {"lt": [{"word": "prie", "stressed": "priẽ"}], "ru": [{"word": "к"}, {"word": "у"}, {"word": "при"}, {"word": "возле"}], "context": "места"},
   {"lt": [{"word": "prieš", "stressed": "priẽš"}], "ru": [{"word": "перед"}, {"word": "напротив"}]},
   {"lt": [{"word": "priešais", "stressed": "priẽšais"}], "ru": [{"word": "напротив"}]},
   {"lt": [{"word": "pro", "stressed": "prõ"}], "ru": [{"word": "через"}], "context": "сквозь"},

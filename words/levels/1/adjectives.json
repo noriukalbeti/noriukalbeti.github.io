@@ -1,0 +1,22 @@
+[
+  {"lt": [{"word": "ankstyvas", "forms": "ankstývas, ankstyvà", "opposite": "vėlus"}], "en": [{"word": "early"}], "ru": [{"word": "ранний"}], "context": "время"},
+  {"lt": [{"word": "atviras", "forms": "atvi̇̀ras, atvirà", "opposite": "uždaras"}], "en": [{"word": "open"}], "ru": [{"word": "открытый"}], "context": "дверь, душа"},
+  {"lt": [{"word": "bailus", "forms": "bailùs, baili̇̀", "opposite": "drąsus"}], "en": [{"word": "cowardly"}], "ru": [{"word": "трусливый"}], "context": "характер"},
+  {"lt": [{"word": "dosnus", "forms": "dosnùs, dosni̇̀", "opposite": "šykštus"}], "en": [{"word": "generous"}], "ru": [{"word": "щедрый"}], "context": "характер"},
+  {"lt": [{"word": "drąsus", "forms": "drąsùs, drąsi̇̀", "opposite": "bailus"}], "en": [{"word": "brave"}], "ru": [{"word": "смелый"}], "context": "характер"},
+  {"lt": [{"word": "grubus", "forms": "grubùs, grubi̇̀", "opposite": "mandagus"}], "en": [{"word": "rude / rough"}], "ru": [{"word": "грубый"}], "context": "поведение, поверхность"},
+  {"lt": [{"word": "įdomus", "forms": "įdomùs, įdomi̇̀", "opposite": "nuobodus"}], "en": [{"word": "interesting"}], "ru": [{"word": "интересный"}], "context": "книга, фильм"},
+  {"lt": [{"word": "karštas", "forms": "kar̃štas, karštà", "opposite": "vėsus"}], "en": [{"word": "hot"}], "ru": [{"word": "горячий"}], "context": "температура"},
+  {"lt": [{"word": "kvailus", "forms": "kvailùs, kvaili̇̀", "opposite": "protingas"}], "en": [{"word": "stupid / foolish"}], "ru": [{"word": "глупый"}], "context": "характер"},
+  {"lt": [{"word": "laisvas", "forms": "lai̇̃svas, laisvà", "opposite": "užimtas"}], "en": [{"word": "free"}], "ru": [{"word": "свободный"}], "context": "место, время"},
+  {"lt": [{"word": "mandagus", "forms": "mandagùs, mandagi̇̀", "opposite": "grubus"}], "en": [{"word": "polite"}], "ru": [{"word": "вежливый"}], "context": "поведение"},
+  {"lt": [{"word": "nuobodus", "forms": "nuobodùs, nuobodi̇̀", "opposite": "įdomus"}], "en": [{"word": "boring"}], "ru": [{"word": "скучный"}], "context": "лекция, фильм"},
+  {"lt": [{"word": "protingas", "forms": "proti̇̀ngas, protingà", "opposite": "kvailus"}], "en": [{"word": "smart"}], "ru": [{"word": "умный"}], "context": "характер"},
+  {"lt": [{"word": "šykštus", "forms": "šykštùs, šykšti̇̀", "opposite": "dosnus"}], "en": [{"word": "greedy / stingy"}], "ru": [{"word": "жадный"}], "context": "характер"},
+  {"lt": [{"word": "turtingas", "forms": "turti̇̀ngas, turtingà", "opposite": "vargšas"}], "en": [{"word": "rich"}], "ru": [{"word": "богатый"}], "context": "финансы"},
+  {"lt": [{"word": "uždaras", "forms": "ùždaras, uždarà", "opposite": "atviras"}], "en": [{"word": "closed"}], "ru": [{"word": "закрытый"}], "context": "дверь"},
+  {"lt": [{"word": "užimtas", "forms": "ùžimtas, užimtà", "opposite": "laisvas"}], "en": [{"word": "busy"}], "ru": [{"word": "занятый"}], "context": "человек"},
+  {"lt": [{"word": "vargšas", "forms": "varg̃šas, vargšà", "opposite": "turtingas"}], "en": [{"word": "poor"}], "ru": [{"word": "бедный"}], "context": "финансы"},
+  {"lt": [{"word": "vėlus", "forms": "vėlùs, vėli̇̀", "opposite": "ankstyvas"}], "en": [{"word": "late"}], "ru": [{"word": "поздний"}], "context": "время"},
+  {"lt": [{"word": "vėsus", "forms": "vėsùs, vėsi̇̀", "opposite": "karštas"}], "en": [{"word": "cool"}], "ru": [{"word": "прохладный"}], "context": "температура"}
+]
