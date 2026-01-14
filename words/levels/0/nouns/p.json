@@ -16,7 +16,6 @@
   {"lt": [{"word": "pavardė", "stressed": "pavardė̃", "gender": "moteriška"}], "en": [{"word": "surname"}], "ru": [{"word": "фамилия"}]},
   {"lt": [{"word": "pienas", "stressed": "píenas", "gender": "vyriška"}], "en": [{"word": "milk"}], "ru": [{"word": "молоко"}]},
   {"lt": [{"word": "pieštukas", "stressed": "pieštùkas", "gender": "vyriška"}], "en": [{"word": "pencil"}], "ru": [{"word": "карандаш"}]},
-  {"lt": [{"word": "pietūs", "stressed": "pietūs", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "lunch"}], "ru": [{"word": "обед"}]},
   {"lt": [{"word": "pilis", "stressed": "pilìs", "gender": "moteriška"}], "en": [{"word": "castle"}], "ru": [{"word": "замок"}]},
   {"lt": [{"word": "picerija", "stressed": "picerija", "gender": "moteriška"}], "en": [{"word": "pizzeria"}], "ru": [{"word": "пиццерия"}]},
   {"lt": [{"word": "pica", "stressed": "picà", "gender": "moteriška"}], "en": [{"word": "pizza"}], "ru": [{"word": "пицца"}]},
