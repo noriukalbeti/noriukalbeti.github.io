@@ -8,6 +8,6 @@
   {"lt": [{"word": "retai", "forms": "retai̇̃", "opposite": "dažnai̇̃"}], "en": [{"word": "rarely"}], "ru": [{"word": "редко"}], "context": "частота"},
   {"lt": [{"word": "teisingai", "forms": "teisi̇̀ngai", "opposite": "klaidingai̇̃"}], "en": [{"word": "correctly"}], "ru": [{"word": "верно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}], "context": "оценка"},
   {"lt": [{"word": "ten", "forms": "teñ", "opposite": "čia"}], "en": [{"word": "there"}], "ru": [{"word": "там"}], "context": "место"},
-  {"lt": [{"word": "tikrai", "forms": "tikrai̇̃"}], "en": [{"word": "really"}], "ru": [{"word": "действительно"}], "context": "уверенность"},
+  {"lt": [{"word": "tikrai", "forms": "tikrai̇̃"}], "en": [{"word": "really"}], "ru": [{"word": "конечно"}, {"word": "точно"}, {"word": "верно"}, {"word": "истинно"}, {"word": "правильно"}, {"word": "несомненно"}, {"word": "действительно"}, {"word": "на самом деле"}, {"word": "в самом деле"}], "context": "уверенность"},
   {"lt": [{"word": "visada", "forms": "visadà", "opposite": "niekadà"}], "en": [{"word": "always"}], "ru": [{"word": "всегда"}], "context": "частота"}
 ]
