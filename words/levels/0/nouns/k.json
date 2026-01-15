@@ -47,6 +47,5 @@
   {"lt": [{"word": "kuras", "stressed": "kùras", "gender": "vyriška"}], "en": [{"word": "fuel"}], "ru": [{"word": "топливо"}]},
   {"lt": [{"word": "kursas", "stressed": "kur̃sas", "gender": "vyriška"}], "en": [{"word": "course"}], "ru": [{"word": "курс"}]},
   {"lt": [{"word": "kvitas", "stressed": "kvìtas", "gender": "vyriška"}], "en": [{"word": "receipt"}], "ru": [{"word": "квитанция"}]},
-  {"lt": [{"word": "Kūčios", "stressed": "Kū̃čios", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "Christmas Eve"}], "ru": [{"word": "Сочельник"}]},
-  {"lt": [{"word": "kūčiukas", "stressed": "kūčiùkas", "gender": "vyriška"}], "en": [{"word": "Christmas Eve cookie"}], "ru": [{"word": "кучюкас", "context": "традиционное печенье"}]}
+  {"lt": [{"word": "Kūčios", "stressed": "Kū̃čios", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "Christmas Eve"}], "ru": [{"word": "Сочельник"}]}
 ]
