@@ -78,9 +78,8 @@
   {"lt": [{"word": "kur", "stressed": "kur̃"}], "ru": [{"word": "где"}, {"word": "куда"}]},
   {"lt": [{"word": "kuris", "stressed": "kurìs"}], "ru": [{"word": "какой"}, {"word": "который"}]},
 
-  {"lt": [{"word": "ar", "stressed": "ar̃"}], "ru": [{"word": "или"}]},
-  {"lt": [{"word": "ar", "stressed": "ar̃"}], "ru": [{"word": "ли"}], "context": "вопросительная частица"},
-  {"lt": [{"word": "arba", "stressed": "arbà"}], "ru": [{"word": "или"}]},
+  {"lt": [{"word": "ar", "stressed": "ar̃"}], "ru": [{"word": "ли"}, {"word": "или"}]},
+  {"lt": [{"word": "arba", "stressed": "arbà"}], "ru": [{"word": "или"}, {"word": "либо"}]},
   {"lt": [{"word": "be to", "stressed": "bè tõ"}], "ru": [{"word": "к тому же"}, {"word": "кроме того"}]},
   {"lt": [{"word": "bei", "stressed": "beĩ"}], "ru": [{"word": "также"}], "context": "союз"},
   {"lt": [{"word": "bet", "stressed": "bèt"}], "ru": [{"word": "но"}]},
