@@ -22,7 +22,7 @@
   {"lt": [{"word": "vasara", "stressed": "vãsara", "gender": "moteriška"}], "en": [{"word": "summer"}], "ru": [{"word": "лето"}]},
   {"lt": [{"word": "žiema", "stressed": "žiemà", "gender": "moteriška"}], "en": [{"word": "winter"}], "ru": [{"word": "зима"}]},
 
-  {"lt": [{"word": "balandis", "stressed": "balañdis", "gender": "vyriška"}], "ru": [{"word": "апрель"}]},
+  {"lt": [{"word": "balandis", "stressed": "balañdis", "gender": "vyriška"}], "ru": [{"word": "апрель"}, {"word": "голубь"}]},
   {"lt": [{"word": "birželis", "stressed": "biržẽlis", "gender": "vyriška"}], "ru": [{"word": "июнь"}]},
   {"lt": [{"word": "gegužė", "stressed": "gegùžė", "gender": "moteriška"}], "ru": [{"word": "май"}]},
   {"lt": [{"word": "gruodis", "stressed": "grúodis", "gender": "vyriška"}], "ru": [{"word": "декабрь"}]},
