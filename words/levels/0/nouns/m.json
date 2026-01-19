@@ -11,7 +11,7 @@
   {"lt": [{"word": "medicina", "stressed": "medicìna", "gender": "moteriška"}], "en": [{"word": "medicine"}], "ru": [{"word": "медицина"}]},
   {"lt": [{"word": "medis", "stressed": "mẽdis", "gender": "vyriška"}], "en": [{"word": "tree"}], "ru": [{"word": "дерево"}]},
   {"lt": [{"word": "medus", "stressed": "medùs", "gender": "vyriška"}], "en": [{"word": "honey"}], "ru": [{"word": "мёд"}]},
-  {"lt": [{"word": "mėlynė", "stressed": "mė́lynė", "gender": "moteriška"}], "en": [{"word": "blueberry"}], "ru": [{"word": "черника"}]},
+  {"lt": [{"word": "mėlynė", "stressed": "mė́lynė", "gender": "moteriška"}], "en": [{"word": "blueberry"}], "ru": [{"word": "черника"}, {"word": "синяк"}]},
   {"lt": [{"word": "mėnuo", "stressed": "mė́nuo", "gender": "vyriška"}], "en": [{"word": "month"}], "ru": [{"word": "месяц"}]},
   {"lt": [{"word": "mergaitė", "stressed": "mergáitė", "gender": "moteriška"}], "en": [{"word": "girl"}], "ru": [{"word": "девочка"}]},
   {"lt": [{"word": "mergina", "stressed": "merginà", "gender": "moteriška"}], "en": [{"word": "young woman"}, {"word": "girlfriend"}], "ru": [{"word": "девушка"}]},
