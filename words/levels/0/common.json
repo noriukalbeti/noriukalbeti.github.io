@@ -72,7 +72,7 @@
   {"lt": [{"word": "kiek", "stressed": "kiẽk"}], "ru": [{"word": "сколько"}]},
   {"lt": [{"word": "kieno", "stressed": "kienõ"}], "ru": [{"word": "чей"}]},
   {"lt": [{"word": "ko", "stressed": "kõ"}], "ru": [{"word": "кого"}, {"word": "чего"}]},
-  {"lt": [{"word": "kodėl", "stressed": "kodė̃l"}], "ru": [{"word": "почему"}, {"word": "зачем"}]},
+  {"lt": [{"word": "kodėl", "stressed": "kodė̃l"}], "ru": [{"word": "почему"}, {"word": "зачем"}, {"word": "отчего"}]},
   {"lt": [{"word": "koks", "stressed": "kóks"}], "ru": [{"word": "какой"}]},
   {"lt": [{"word": "kuo", "stressed": "kuõ"}], "ru": [{"word": "кем"}, {"word": "чем"}]},
   {"lt": [{"word": "kur", "stressed": "kur̃"}], "ru": [{"word": "где"}, {"word": "куда"}]},

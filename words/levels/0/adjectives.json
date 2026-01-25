@@ -12,7 +12,7 @@
   {"lt": [{"word": "ilgas", "forms": "il̃gas, ilgà", "opposite": "trumpas"}], "en": [{"word": "long"}], "ru": [{"word": "длинный"}], "context": "длина"},
   {"lt": [{"word": "jaunas", "forms": "jáunas, jaunà", "opposite": "senas"}], "en": [{"word": "young"}], "ru": [{"word": "молодой"}, {"word": "юный"}], "context": "возраст"},
   {"lt": [{"word": "juodas", "forms": "juõdas, juodà", "opposite": "baltas"}], "en": [{"word": "black"}], "ru": [{"word": "черный"}], "context": "цвет"},
-  {"lt": [{"word": "kietas", "forms": "kiẽtas, kietà", "opposite": "minkštas"}], "en": [{"word": "hard"}], "ru": [{"word": "твёрдый"}], "context": "поверхность"},
+  {"lt": [{"word": "kietas", "forms": "kiẽtas, kietà", "opposite": "minkštas"}], "en": [{"word": "hard"}], "ru": [{"word": "твёрдый"}, {"word": "жёсткий"}, {"word": "чёрствый"}], "context": "свойство предмета"},
   {"lt": [{"word": "laisvas", "forms": "lai̇̃svas, laisvà", "opposite": "užimtas"}], "en": [{"word": "free"}], "ru": [{"word": "свободный"}], "context": "место, время"},
   {"lt": [{"word": "lengvas", "forms": "leng̃vas, lengvà", "opposite": "sunkus"}], "en": [{"word": "easy / light"}], "ru": [{"word": "легкий"}], "context": "вес, задача"},
   {"lt": [{"word": "lėtas", "forms": "lė́tas, lėtà", "opposite": "greitas"}], "en": [{"word": "slow"}], "ru": [{"word": "медленный"}], "context": "темп"},
@@ -47,6 +47,6 @@
   {"lt": [{"word": "triukšmingas", "forms": "triukšmi̇̀ngas, triukšmingà", "opposite": "tylus"}], "en": [{"word": "noisy"}], "ru": [{"word": "шумный"}], "context": "звук"},
   {"lt": [{"word": "trumpas", "forms": "trum̃pas, trumpà", "opposite": "ilgas"}], "en": [{"word": "short"}], "ru": [{"word": "короткий"}], "context": "длина"},
   {"lt": [{"word": "turtingas", "forms": "turti̇̀ngas, turtingà", "opposite": "vargšas"}], "en": [{"word": "rich"}], "ru": [{"word": "богатый"}], "context": "финансы"},
-  {"lt": [{"word": "žalias", "forms": "žãlias, žalià"}], "en": [{"word": "green"}], "ru": [{"word": "зеленый"}], "context": "цвет"},
+  {"lt": [{"word": "žalias", "forms": "žãlias, žalià"}], "en": [{"word": "green"}], "ru": [{"word": "зеленый"}, {"word": "сырой"}], "context": "цвет"},
   {"lt": [{"word": "žemas", "forms": "žẽmas, žemà", "opposite": "aukštas"}], "en": [{"word": "low"}], "ru": [{"word": "низкий"}], "context": "рост"}
 ]
