@@ -15,7 +15,7 @@
   {"lt": [{"word": "girdėti", "forms": "girdė́ti, gir̃di, girdė́jo", "conjugation": "II"}], "en": [{"word": "to hear"}], "ru": [{"word": "слышать"}], "context": "восприятие звука"},
   {"lt": [{"word": "grįžti", "forms": "grį̃žti, grįžta, grįžo", "conjugation": "I"}], "en": [{"word": "to return"}, {"word": "to come back"}], "ru": [{"word": "вернуться"}, {"word": "возвращаться"}], "context": "движение назад, возвращение домой"},
   {"lt": [{"word": "groti", "forms": "gróti, groja, grojo", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "context": "муз. инструмент"},
-  {"lt": [{"word": "jausti", "forms": "jaũsti, jaučia, jautė", "conjugation": "I"}], "en": [{"word": "to feel"}], "ru": [{"word": "чувствовать"}], "context": "о самочувствии"},
+  {"lt": [{"word": "jausti", "forms": "jaũsti, jaũčia, jaũtė", "conjugation": "I"}], "en": [{"word": "to feel"}], "ru": [{"word": "чувствовать"}], "context": "о самочувствии"},
   {"lt": [{"word": "manyti", "forms": "manýti, mano, manė", "conjugation": "III"}], "en": [{"word": "to think"}, {"word": "to believe"}], "ru": [{"word": "полагать"}, {"word": "считать"}, {"word": "думать"}], "context": "выражать мнение"},
   {"lt": [{"word": "skubėti", "forms": "skubė́ti, skuba, skubėjo", "conjugation": "I"}], "en": [{"word": "to hurry"}], "ru": [{"word": "спешить"}, {"word": "торопиться"}, {"word": "лететь пулей"}], "context": "нехватка времени"},
   {"lt": [{"word": "veikti", "forms": "veĩkti, veikia, veikė", "conjugation": "I"}], "en": [{"word": "to do"}, {"word": "to act"}], "ru": [{"word": "делать"}, {"word": "действовать"}, {"word": "заниматься"}, {"word": "влиять"}], "context": "заниматься чем-то"},
