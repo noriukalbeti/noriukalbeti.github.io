@@ -12,6 +12,8 @@
   {"lt": [{"word": "dalyvauti", "forms": "dalyváuti, dalỹvauja, dalỹvavo", "conjugation": "I"}], "en": [{"word": "to participate"}, {"word": "to take part"}], "ru": [{"word": "участвовать"}, {"word": "принимать участие"}], "context": "мероприятие, деятельность"},
   {"lt": [{"word": "dėvėti", "forms": "dėvė́ti, dė̃vi, dėvė́jo", "conjugation": "II"}], "en": [{"word": "to wear"}, {"word": "to have on"}], "ru": [{"word": "носить"}, {"word": "быть одетым в"}], "context": "одежда, обувь"},
   {"lt": [{"word": "džiaugtis", "forms": "džiaũgtis, džiaugiasi, džiaugėsi", "conjugation": "I"}], "en": [{"word": "to rejoice"}, {"word": "to be happy"}], "ru": [{"word": "радоваться"}], "context": "чему-либо"},
+  {"lt": [{"word": "girdėti", "forms": "girdė́ti, gir̃di, girdė́jo", "conjugation": "II"}], "en": [{"word": "to hear"}], "ru": [{"word": "слышать"}], "context": "восприятие звука"},
+  {"lt": [{"word": "grįžti", "forms": "grį̃žti, grįžta, grįžo", "conjugation": "I"}], "en": [{"word": "to return"}, {"word": "to come back"}], "ru": [{"word": "вернуться"}, {"word": "возвращаться"}], "context": "движение назад, возвращение домой"},
   {"lt": [{"word": "groti", "forms": "gróti, groja, grojo", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "context": "муз. инструмент"},
   {"lt": [{"word": "jausti", "forms": "jaũsti, jaučia, jautė", "conjugation": "I"}], "en": [{"word": "to feel"}], "ru": [{"word": "чувствовать"}], "context": "о самочувствии"},
   {"lt": [{"word": "manyti", "forms": "manýti, mano, manė", "conjugation": "III"}], "en": [{"word": "to think"}, {"word": "to believe"}], "ru": [{"word": "полагать"}, {"word": "считать"}, {"word": "думать"}], "context": "выражать мнение"},
