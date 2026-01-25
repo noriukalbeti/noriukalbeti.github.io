@@ -55,6 +55,7 @@
   {"lt": [{"word": "važiuoti", "forms": "važiúoti, važiuoja, važiavo", "conjugation": "I"}], "en": [{"word": "to go"}, {"word": "to ride"}], "ru": [{"word": "ехать"}, {"word": "катить"}], "context": "на транспорте"},
   {"lt": [{"word": "virti", "forms": "vir̃ti, verda, virė", "conjugation": "I"}], "en": [{"word": "to cook"}, {"word": "to boil"}], "ru": [{"word": "варить"}], "context": "еду"},
   {"lt": [{"word": "žaisti", "forms": "žaĩsti, žaidžia, žaidė", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "context": "игры, развлечения"},
-  {"lt": [{"word": "žinoti", "forms": "žinóti, žino, žinojo", "conjugation": "III"}], "en": [{"word": "to know"}], "ru": [{"word": "знать"}], "context": "информацию"},
-  {"lt": [{"word": "žiūrėti", "forms": "žiūrė́ti, žiūri, žiūrėjo", "conjugation": "II"}], "en": [{"word": "to watch"}, {"word": "to look"}], "ru": [{"word": "смотреть"}, {"word": "глядеть"}], "context": "ТВ или на объект"}
+  {"lt": [{"word": "žinoti", "forms": "žinóti, ži̇̀no, žinójo", "conjugation": "III"}], "en": [{"word": "to know"}], "ru": [{"word": "знать"}], "context": "информацию"},
+  {"lt": [{"word": "žiūrėti", "forms": "žiūrė́ti, žiūri, žiūrėjo", "conjugation": "II"}], "en": [{"word": "to watch"}, {"word": "to look"}], "ru": [{"word": "смотреть"}, {"word": "глядеть"}], "context": "ТВ или на объект"},
+  {"lt": [{"word": "žvejoti", "forms": "žvejóti, žvejója, žvejójo", "conjugation": "I"}], "en": [{"word": "to fish"}, {"word": "to go fishing"}], "ru": [{"word": "рыбачить"}, {"word": "удить"}], "context": "хобби, промысел"}
 ]
