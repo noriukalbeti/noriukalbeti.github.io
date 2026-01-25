@@ -31,7 +31,7 @@
   {"lt": [{"word": "pietauti", "forms": "pietáuti, pietauja, pietavo", "conjugation": "I"}], "en": [{"word": "to have lunch"}], "ru": [{"word": "обедать"}, {"word": "перекусывать"}], "context": "днем"},
   {"lt": [{"word": "pirkti", "forms": "pir̃kti, perka, pirko", "conjugation": "I"}], "en": [{"word": "to buy"}], "ru": [{"word": "купить"}, {"word": "покупать"}], "context": "товары"},
   {"lt": [{"word": "plauti", "forms": "pláuti, plauna, plovė", "conjugation": "I"}], "en": [{"word": "to wash"}], "ru": [{"word": "мыть"}, {"word": "драить"}], "context": "водой"},
-  {"lt": [{"word": "pradėti", "forms": "pradė́ti, pradeda, pradėjo", "conjugation": "I"}], "en": [{"word": "to start"}, {"word": "to begin"}], "ru": [{"word": "начать"}, {"word": "приступить"}], "context": "процесс"},
+  {"lt": [{"word": "pradėti", "forms": "pradė́ti, pradeda, pradėjo", "conjugation": "I"}], "en": [{"word": "to start"}, {"word": "to begin"}], "ru": [{"word": "начать"}, {"word": "начинать"}, {"word": "приступить"}, {"word": "приступать"}], "context": "процесс"},
   {"lt": [{"word": "pusryčiauti", "forms": "pusryčiáuti, pusryčiauja, pusryčiavo", "conjugation": "I"}], "en": [{"word": "to have breakfast"}], "ru": [{"word": "завтракать"}], "context": "утром"},
   {"lt": [{"word": "rašyti", "forms": "rašýti, rašo, rašė", "conjugation": "III"}], "en": [{"word": "to write"}], "ru": [{"word": "писать"}, {"word": "марать бумагу"}], "context": "текст"},
   {"lt": [{"word": "reikėti", "forms": "reikė́ti, reikia, reikėjo", "conjugation": "II (Impersonal)"}], "en": [{"word": "to need"}], "ru": [{"word": "нуждаться"}, {"word": "быть нужным"}], "context": "когда что-то требуется"},
