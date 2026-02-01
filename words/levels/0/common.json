@@ -191,12 +191,12 @@
   {"lt": [{"word": "pas", "stressed": "pàs"}], "ru": [{"word": "к"}, {"word": "у"}], "context": "людей"},
   {"lt": [{"word": "per", "stressed": "per̃"}], "ru": [{"word": "через"}, {"word": "в течении"}, {"word": "сквозь"}, {"word": "из-за"}]},
   {"lt": [{"word": "po", "stressed": "põ"}], "ru": [{"word": "по"}, {"word": "под"}, {"word": "после"}]},
-  {"lt": [{"word": "prie", "stressed": "priẽ"}], "ru": [{"word": "к"}, {"word": "у"}, {"word": "при"}, {"word": "возле"}], "context": "места"},
+  {"lt": [{"word": "prie", "stressed": "priẽ"}], "ru": [{"word": "к"}, {"word": "у"}, {"word": "при"}, {"word": "возле"}, {"word": "около"}], "context": "места"},
   {"lt": [{"word": "prieš", "stressed": "priẽš"}], "ru": [{"word": "перед"}, {"word": "напротив"}]},
   {"lt": [{"word": "priešais", "stressed": "priẽšais"}], "ru": [{"word": "напротив"}]},
   {"lt": [{"word": "pro", "stressed": "prõ"}], "ru": [{"word": "через"}], "context": "сквозь"},
   {"lt": [{"word": "su", "stressed": "sù"}], "ru": [{"word": "с"}]},
-  {"lt": [{"word": "šalia", "stressed": "šalià"}], "ru": [{"word": "около"}]},
+  {"lt": [{"word": "šalia", "stressed": "šalià"}], "ru": [{"word": "у"}, {"word": "рядом"}, {"word": "возле"}, {"word": "около"}]},
   {"lt": [{"word": "už", "stressed": "ùž"}], "ru": [{"word": "за"}]},
   {"lt": [{"word": "virš", "stressed": "virš̃"}], "ru": [{"word": "над"}]}
 ]
