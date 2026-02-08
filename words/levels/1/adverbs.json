@@ -25,7 +25,7 @@
   {"lt": [{"word": "puikiai", "forms": "pui̇̃kiai"}], "en": [{"word": "perfectly"}], "ru": [{"word": "отлично"}], "context": "оценка"},
   {"lt": [{"word": "mandagiai", "forms": "mandagiai̇̃", "opposite": "grubiai̇̃"}], "en": [{"word": "politely"}], "ru": [{"word": "вежливо"}], "context": "поведение"},
   {"lt": [{"word": "drąsiai", "forms": "drą̃siai", "opposite": "bailiai̇̃"}], "en": [{"word": "boldly"}], "ru": [{"word": "смело"}], "context": "поведение"},
-  {"lt": [{"word": "klaidingai", "forms": "klaidingai̇̃", "opposite": "teisi̇̀ngai"}], "en": [{"word": "wrongly"}], "ru": [{"word": "неправильно"}], "context": "оценка"},
+  {"lt": [{"word": "klaidingai", "forms": "klaidingai̇̃", "opposite": "teisi̇̀ngai"}], "en": [{"word": "wrongly"}], "ru": [{"word": "ошибочно"}, {"word": "неверно"}], "context": "оценка"},
   {"lt": [{"word": "skaniai", "forms": "skaniai̇̃", "opposite": "neskaniai̇̃"}], "en": [{"word": "tastily"}], "ru": [{"word": "вкусно"}], "context": "еда"},
   {"lt": [{"word": "skubiai", "forms": "skùbiai"}], "en": [{"word": "urgently"}], "ru": [{"word": "срочно"}], "context": "темп"},
   {"lt": [{"word": "sunkiai", "forms": "sunkiai̇̃", "opposite": "lengvai̇̃"}], "en": [{"word": "heavily / with difficulty"}], "ru": [{"word": "тяжело"}], "context": "труд"},

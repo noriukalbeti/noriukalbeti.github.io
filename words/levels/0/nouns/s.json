@@ -12,7 +12,7 @@
   {"lt": [{"word": "širdis", "stressed": "širdìs", "gender": "moteriška"}], "en": [{"word": "heart"}], "ru": [{"word": "сердце"}]},
   {"lt": [{"word": "skausmas", "stressed": "skáusmas", "gender": "vyriška"}], "en": [{"word": "pain"}], "ru": [{"word": "боль"}]},
   {"lt": [{"word": "sniegas", "stressed": "sniẽgas", "gender": "vyriška"}], "en": [{"word": "snow"}], "ru": [{"word": "снег"}]},
-  {"lt": [{"word": "šokoladas", "stressed": "šokolãdas", "gender": "vyriška"}], "en": [{"word": "chocolate"}], "ru": [{"word": "шарф"}]},
+  {"lt": [{"word": "šokoladas", "stressed": "šokolãdas", "gender": "vyriška"}], "en": [{"word": "chocolate"}], "ru": [{"word": "шоколад"}]},
   {"lt": [{"word": "stotis", "stressed": "stotìs", "gender": "moteriška"}], "en": [{"word": "station"}], "ru": [{"word": "вокзал"}]},
   {"lt": [{"word": "studentas", "stressed": "studêntas", "gender": "vyriška"}], "en": [{"word": "student"}], "ru": [{"word": "студент"}]},
   {"lt": [{"word": "sultys", "stressed": "sùltys", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "juice"}], "ru": [{"word": "сок"}]},
