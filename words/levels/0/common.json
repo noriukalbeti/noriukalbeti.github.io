@@ -46,7 +46,7 @@
   {"lt": [{"word": "apačia", "stressed": "apačià", "gender": "moteriška"}], "ru": [{"word": "низ"}]},
   {"lt": [{"word": "centimetras", "stressed": "centimètras", "gender": "vyriška"}], "ru": [{"word": "сантиметр"}]},
   {"lt": [{"word": "dydis", "stressed": "dỹdis", "gender": "vyriška"}], "ru": [{"word": "размер"}]},
-  {"lt": [{"word": "galas", "stressed": "gãlas", "gender": "vyriška"}], "ru": [{"word": "зад"}]},
+  {"lt": [{"word": "galas", "stressed": "gãlas", "gender": "vyriška"}], "ru": [{"word": "конец"}, {"word": "окончание"}]},
   {"lt": [{"word": "kilometras", "stressed": "kilomètras", "gender": "vyriška"}], "ru": [{"word": "километр"}]},
   {"lt": [{"word": "laipsnis", "stressed": "láipsnis", "gender": "vyriška"}], "ru": [{"word": "градус"}]},
   {"lt": [{"word": "matmuo", "stressed": "matmuõ", "gender": "vyriška"}], "ru": [{"word": "размер"}], "context": "технический параметр"},
