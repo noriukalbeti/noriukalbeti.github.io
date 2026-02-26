@@ -3,5 +3,6 @@
   {"lt": [{"word": "namas", "stressed": "nãmas", "gender": "vyriška"}], "en": [{"word": "house"}], "ru": [{"word": "дом"}]},
   {"lt": [{"word": "namai", "stressed": "namaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "home"}], "ru": [{"word": "дом", "context": "домашний очаг"}]},
   {"lt": [{"word": "nėra", "stressed": "nėrà", "gender": "moteriška"}], "en": [{"word": "absence"}], "ru": [{"word": "отсутствие"}]},
+  {"lt": [{"word": "netiesa", "stressed": "netiesà", "gender": "moteriška"}], "en": [{"word": "untruth"}], "ru": [{"word": "неправда"}]},
   {"lt": [{"word": "nuoma", "stressed": "nuomà", "gender": "moteriška"}], "en": [{"word": "rent"}], "ru": [{"word": "аренда"}]}
 ]
