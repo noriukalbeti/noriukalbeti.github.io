@@ -28,7 +28,7 @@
   {"lt": [{"word": "norėti", "forms": "norė́ti, nori, norėjo", "conjugation": "II"}], "en": [{"word": "to want"}], "ru": [{"word": "хотеть"}, {"word": "желать"}], "context": "желание"},
   {"lt": [{"word": "padėti", "forms": "padė́ti, padeda, padėjo", "conjugation": "I"}], "en": [{"word": "to help"}, {"word": "to assist"}], "ru": [{"word": "помогать"}, {"word": "подсоблять"}], "context": "содействие"},
   {"lt": [{"word": "parduoti", "forms": "pardúoti, parduoda, pardavė", "conjugation": "I"}], "en": [{"word": "to sell"}], "ru": [{"word": "продавать"}], "context": "торговля"},
-  {"lt": [{"word": "pasakoti", "forms": "pãsakoti, pasakoja, pasakojo", "conjugation": "I"}], "en": [{"word": "to tell"}, {"word": "to narrate"}], "ru": [{"word": "рассказывать"}], "context": "историю или новости"},
+  {"lt": [{"word": "pasakoti", "forms": "pãsakoti, pasakoja, pasakojo", "conjugation": "I"}], "en": [{"word": "to tell"}, {"word": "to narrate"}], "ru": [{"word": "рассказывать"}, {"word": "рассказать"}], "context": "историю или новости"},
   {"lt": [{"word": "patikti", "forms": "patìkti, patinka, patiko", "conjugation": "I"}], "en": [{"word": "to like"}], "ru": [{"word": "нравиться"}, {"word": "приглянуться"}], "context": "симпатия"},
   {"lt": [{"word": "pietauti", "forms": "pietáuti, pietauja, pietavo", "conjugation": "I"}], "en": [{"word": "to have lunch"}], "ru": [{"word": "обедать"}, {"word": "перекусывать"}], "context": "днем"},
   {"lt": [{"word": "pirkti", "forms": "pir̃kti, perka, pirko", "conjugation": "I"}], "en": [{"word": "to buy"}], "ru": [{"word": "купить"}, {"word": "покупать"}], "context": "товары"},
