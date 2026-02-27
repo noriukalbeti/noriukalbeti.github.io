@@ -16,7 +16,7 @@
   {"lt": [{"word": "linksmai", "forms": "linksmai̇̃", "opposite": "liūdnai̇̃"}], "en": [{"word": "cheerfully"}], "ru": [{"word": "весело"}, {"word": "радостно"}], "context": "настроение"},
   {"lt": [{"word": "liūdnai", "forms": "liūdnai̇̃", "opposite": "linksmai̇̃"}], "en": [{"word": "sadly"}], "ru": [{"word": "грустно"}], "context": "настроение"},
   {"lt": [{"word": "maloniai", "forms": "malõniai"}], "en": [{"word": "pleasantly"}], "ru": [{"word": "приятно"}], "context": "общение"},
-  {"lt": [{"word": "mažai", "forms": "mãžai", "opposite": "daũg"}], "en": [{"word": "little / few"}], "ru": [{"word": "мало"}], "context": "количество"},
+  {"lt": [{"word": "mažai", "forms": "mažai̇̃", "opposite": "daũg"}], "en": [{"word": "little / few"}], "ru": [{"word": "мало"}], "context": "количество"},
   {"lt": [{"word": "mažiau", "forms": "mažiaũ", "opposite": "daugiaũ"}], "en": [{"word": "less"}], "ru": [{"word": "меньше"}], "context": "сравнение"},
   {"lt": [{"word": "nuolat", "forms": "nuõlat"}], "en": [{"word": "constantly"}], "ru": [{"word": "постоянно"}], "context": "частота"},
   {"lt": [{"word": "nuobodžiai", "forms": "nuobõdžiai", "opposite": "įdomiai̇̃"}], "en": [{"word": "boringly"}], "ru": [{"word": "скучно"}], "context": "оценка"},
