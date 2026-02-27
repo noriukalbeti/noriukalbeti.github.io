@@ -1,0 +1,52 @@
+[
+  [
+    [{"lt": "kaimynė", "ru": "соседка"}, {"lt": "draugė", "ru": "подруга"}, {"lt": "mama", "ru": "мама"}],
+    [{"lt": "nupirko", "ru": "купила"}, {"lt": "atnešė", "ru": "принесла"}, {"lt": "surado", "ru": "нашла"}],
+    [{"lt": "šviežią duoną", "ru": "свежий хлеб"}, {"lt": "skanų tortą", "ru": "вкусный торт"}, {"lt": "obuolius", "ru": "яблоки"}]
+  ],
+  [
+    [{"lt": "draugas", "ru": "друг"}, {"lt": "brolis", "ru": "брат"}, {"lt": "tėtis", "ru": "папа"}],
+    [{"lt": "nupirko", "ru": "купил"}, {"lt": "atnešė", "ru": "принес"}, {"lt": "surado", "ru": "нашел"}],
+    [{"lt": "šviežią duoną", "ru": "свежий хлеб"}, {"lt": "skanų tortą", "ru": "вкусный торт"}, {"lt": "obuolius", "ru": "яблоки"}]
+  ],
+  [
+    [{"lt": "gydytojas", "ru": "врач"}, {"lt": "chirurgas", "ru": "хирург"}, {"lt": "vadybininkas", "ru": "менеджер"}],
+    [{"lt": "apžiūrėjo", "ru": "осмотрел"}, {"lt": "pasveikino", "ru": "поздравил"}, {"lt": "laukė", "ru": "ждал"}],
+    [{"lt": "seną pacientą", "ru": "старого пациента"}, {"lt": "маžą vaiką", "ru": "маленького ребенка"}, {"lt": "kolegą", "ru": "коллегу"}]
+  ],
+  [
+    [{"lt": "slaugytoja", "ru": "медсестра"}, {"lt": "kirpėja", "ru": "парикмахерша"}, {"lt": "sekretorė", "ru": "секретарша"}],
+    [{"lt": "apžiūrėjo", "ru": "осмотрела"}, {"lt": "pasveikino", "ru": "поздравила"}, {"lt": "laukė", "ru": "ждала"}],
+    [{"lt": "seną pacientą", "ru": "старого пациента"}, {"lt": "mažą vaiką", "ru": "маленького ребенка"}, {"lt": "kolegą", "ru": "коллегу"}]
+  ],
+  [
+    [{"lt": "vairuotojas", "ru": "водитель"}, {"lt": "mechanikas", "ru": "механик"}, {"lt": "ūkininkas", "ru": "фермер"}],
+    [{"lt": "taisė", "ru": "чинил"}, {"lt": "plovė", "ru": "мыл"}, {"lt": "tikrino", "ru": "проверял"}],
+    [{"lt": "seną mašiną", "ru": "старую машину"}, {"lt": "juodą dviratį", "ru": "черный велосипед"}, {"lt": "ratą", "ru": "колесо"}]
+  ],
+  [
+    [{"lt": "močiutė", "ru": "бабушка"}, {"lt": "dukra", "ru": "дочь"}, {"lt": "anūkė", "ru": "внуčka"}],
+    [{"lt": "gamino", "ru": "готовила"}, {"lt": "ragauja", "ru": "пробует"}, {"lt": "patiekia", "ru": "подает"}],
+    [{"lt": "karštą sriubą", "ru": "горячий суп"}, {"lt": "saldų pyragą", "ru": "сладкий пирог"}, {"lt": "vakarienę", "ru": "ужин"}]
+  ],
+  [
+    [{"lt": "sūnus", "ru": "сын"}, {"lt": "anūkas", "ru": "внук"}, {"lt": "mokinys", "ru": "ученик"}],
+    [{"lt": "piešia", "ru": "рисует"}, {"lt": "mato", "ru": "видит"}, {"lt": "fotografuoja", "ru": "фотографирует"}],
+    [{"lt": "gražų peizažą", "ru": "красивый пейзаж"}, {"lt": "miško paukštį", "ru": "лесную птицу"}, {"lt": "pilį", "ru": "замок"}]
+  ],
+  [
+    [{"lt": "pardavėja", "ru": "продавец"}, {"lt": "kasininkė", "ru": "кассирша"}, {"lt": "konsultantė", "ru": "консультантка"}],
+    [{"lt": "pakavo", "ru": "упаковывала"}, {"lt": "nešė", "ru": "несла"}, {"lt": "pardavė", "ru": "продала"}],
+    [{"lt": "brangų pirkinį", "ru": "дорогую покупку"}, {"lt": "trapų daiktą", "ru": "хрупкую вещь"}, {"lt": "prekę", "ru": "товар"}]
+  ],
+  [
+    [{"lt": "studentas", "ru": "студент"}, {"lt": "lektorius", "ru": "лектор"}, {"lt": "mokslininkas", "ru": "ученый"}],
+    [{"lt": "atvertė", "ru": "открыл"}, {"lt": "skaitė", "ru": "читал"}, {"lt": "aptarė", "ru": "обсудил"}],
+    [{"lt": "storą vadovėlį", "ru": "толстый учебник"}, {"lt": "mokslinį straipsnį", "ru": "научную статью"}, {"lt": "temą", "ru": "тему"}]
+  ],
+  [
+    [{"lt": "padavėja", "ru": "официантка"}, {"lt": "virėja", "ru": "повар"}, {"lt": "barmenė", "ru": "барменша"}],
+    [{"lt": "atnešė", "ru": "принесла"}, {"lt": "įpylė", "ru": "налила"}, {"lt": "paruošė", "ru": "приготовила"}],
+    [{"lt": "šaltą vandenį", "ru": "холодную воду"}, {"lt": "stiprią kavą", "ru": "крепкий кофе"}, {"lt": "arbatą", "ru": "чай"}]
+  ]
+]
