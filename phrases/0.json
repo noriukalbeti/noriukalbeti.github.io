@@ -1,52 +1,52 @@
 [
   [
-    [{"lt": "kaimynė", "ru": "соседка"}, {"lt": "draugė", "ru": "подруга"}, {"lt": "mama", "ru": "мама"}],
-    [{"lt": "nupirko", "ru": "купила"}, {"lt": "atnešė", "ru": "принесла"}, {"lt": "surado", "ru": "нашла"}],
-    [{"lt": "šviežią duoną", "ru": "свежий хлеб"}, {"lt": "skanų tortą", "ru": "вкусный торт"}, {"lt": "obuolius", "ru": "яблоки"}]
+    [{"lt": "aš esu", "ru": "я нахожусь"}, {"lt": "tu esi", "ru": "ты находишься"}, {"lt": "jis yra", "ru": "он находится"}],
+    [{"lt": "čia", "ru": "здесь"}, {"lt": "darbe", "ru": "на работе"}, {"lt": "namie", "ru": "дома"}],
+    [{"lt": "šiandien", "ru": "сегодня"}, {"lt": "visą dieną", "ru": "весь день"}, {"lt": "dabar", "ru": "сейчас"}]
   ],
   [
-    [{"lt": "draugas", "ru": "друг"}, {"lt": "brolis", "ru": "брат"}, {"lt": "tėtis", "ru": "папа"}],
-    [{"lt": "nupirko", "ru": "купил"}, {"lt": "atnešė", "ru": "принес"}, {"lt": "surado", "ru": "нашел"}],
-    [{"lt": "šviežią duoną", "ru": "свежий хлеб"}, {"lt": "skanų tortą", "ru": "вкусный торт"}, {"lt": "obuolius", "ru": "яблоки"}]
+    [{"lt": "mes turime", "ru": "у нас есть"}, {"lt": "jūs turite", "ru": "у вас есть"}, {"lt": "jie turi", "ru": "у них есть"}],
+    [{"lt": "daug laiko", "ru": "много времени"}, {"lt": "naują mašiną", "ru": "новая машина"}, {"lt": "didelius namus", "ru": "большой дом"}],
+    [{"lt": "mieste", "ru": "в городе"}, {"lt": "kaime", "ru": "в деревне"}, {"lt": "čia", "ru": "здесь"}]
   ],
   [
-    [{"lt": "gydytojas", "ru": "врач"}, {"lt": "chirurgas", "ru": "хирург"}, {"lt": "vadybininkas", "ru": "менеджер"}],
-    [{"lt": "apžiūrėjo", "ru": "осмотрел"}, {"lt": "pasveikino", "ru": "поздравил"}, {"lt": "laukė", "ru": "ждал"}],
-    [{"lt": "seną pacientą", "ru": "старого пациента"}, {"lt": "маžą vaiką", "ru": "маленького ребенка"}, {"lt": "kolegą", "ru": "коллегу"}]
+    [{"lt": "vaikas eina", "ru": "ребенок идет"}, {"lt": "mokinys eina", "ru": "ученик идет"}, {"lt": "berniukas eina", "ru": "мальчик идет"}],
+    [{"lt": "į mokyklą", "ru": "в школу"}, {"lt": "į parką", "ru": "в парк"}, {"lt": "namo", "ru": "домой"}],
+    [{"lt": "greitai", "ru": "быстро"}, {"lt": "lėtai", "ru": "медленно"}, {"lt": "pėsčiomis", "ru": "пешком"}]
   ],
   [
-    [{"lt": "slaugytoja", "ru": "медсестра"}, {"lt": "kirpėja", "ru": "парикмахерша"}, {"lt": "sekretorė", "ru": "секретарша"}],
-    [{"lt": "apžiūrėjo", "ru": "осмотрела"}, {"lt": "pasveikino", "ru": "поздравила"}, {"lt": "laukė", "ru": "ждала"}],
-    [{"lt": "seną pacientą", "ru": "старого пациента"}, {"lt": "mažą vaiką", "ru": "маленького ребенка"}, {"lt": "kolegą", "ru": "коллегу"}]
+    [{"lt": "aš darau", "ru": "я делаю"}, {"lt": "tu darai", "ru": "ты делаешь"}, {"lt": "jis daro", "ru": "он делает"}],
+    [{"lt": "kavą", "ru": "кофе"}, {"lt": "arbatą", "ru": "чай"}, {"lt": "pusryčius", "ru": "завтрак"}],
+    [{"lt": "virtuvėje", "ru": "на кухне"}, {"lt": "sau", "ru": "себе"}, {"lt": "mums", "ru": "нам"}]
   ],
   [
-    [{"lt": "vairuotojas", "ru": "водитель"}, {"lt": "mechanikas", "ru": "механик"}, {"lt": "ūkininkas", "ru": "фермер"}],
-    [{"lt": "taisė", "ru": "чинил"}, {"lt": "plovė", "ru": "мыл"}, {"lt": "tikrino", "ru": "проверял"}],
-    [{"lt": "seną mašiną", "ru": "старую машину"}, {"lt": "juodą dviratį", "ru": "черный велосипед"}, {"lt": "ratą", "ru": "колесо"}]
+    [{"lt": "mama nori", "ru": "мама хочет"}, {"lt": "sesė nori", "ru": "сестра хочет"}, {"lt": "draugė nori", "ru": "подруга хочет"}],
+    [{"lt": "pailsėti", "ru": "отдохнуть"}, {"lt": "miegoti", "ru": "спать"}, {"lt": "valgyti", "ru": "поесть"}],
+    [{"lt": "po darbo", "ru": "после работы"}, {"lt": "šiek tiek", "ru": "немного"}, {"lt": "vėliau", "ru": "позже"}]
   ],
   [
-    [{"lt": "močiutė", "ru": "бабушка"}, {"lt": "dukra", "ru": "дочь"}, {"lt": "anūkė", "ru": "внуčka"}],
-    [{"lt": "gamino", "ru": "готовила"}, {"lt": "ragauja", "ru": "пробует"}, {"lt": "patiekia", "ru": "подает"}],
-    [{"lt": "karštą sriubą", "ru": "горячий суп"}, {"lt": "saldų pyragą", "ru": "сладкий пирог"}, {"lt": "vakarienę", "ru": "ужин"}]
+    [{"lt": "tėtis gali", "ru": "папа может"}, {"lt": "brolis gali", "ru": "брат может"}, {"lt": "draugas gali", "ru": "друг может"}],
+    [{"lt": "padėti", "ru": "помочь"}, {"lt": "pataisyti", "ru": "починить"}, {"lt": "atvažiuoti", "ru": "приехать"}],
+    [{"lt": "rytoj", "ru": "завтра"}, {"lt": "vakare", "ru": "вечером"}, {"lt": "skubiai", "ru": "срочно"}]
   ],
   [
-    [{"lt": "sūnus", "ru": "сын"}, {"lt": "anūkas", "ru": "внук"}, {"lt": "mokinys", "ru": "ученик"}],
-    [{"lt": "piešia", "ru": "рисует"}, {"lt": "mato", "ru": "видит"}, {"lt": "fotografuoja", "ru": "фотографирует"}],
-    [{"lt": "gražų peizažą", "ru": "красивый пейзаж"}, {"lt": "miško paukštį", "ru": "лесную птицу"}, {"lt": "pilį", "ru": "замок"}]
+    [{"lt": "aš žinau", "ru": "я знаю"}, {"lt": "tu žinai", "ru": "ты знаешь"}, {"lt": "jis žino", "ru": "он знает"}],
+    [{"lt": "atsakymą", "ru": "ответ"}, {"lt": "tiesą", "ru": "правду"}, {"lt": "kelią", "ru": "дорогу"}],
+    [{"lt": "tiksliai", "ru": "точно"}, {"lt": "gerai", "ru": "хорошо"}, {"lt": "seniai", "ru": "давно"}]
   ],
   [
-    [{"lt": "pardavėja", "ru": "продавец"}, {"lt": "kasininkė", "ru": "кассирша"}, {"lt": "konsultantė", "ru": "консультантка"}],
-    [{"lt": "pakavo", "ru": "упаковывала"}, {"lt": "nešė", "ru": "несла"}, {"lt": "pardavė", "ru": "продала"}],
-    [{"lt": "brangų pirkinį", "ru": "дорогую покупку"}, {"lt": "trapų daiktą", "ru": "хрупкую вещь"}, {"lt": "prekę", "ru": "товар"}]
+    [{"lt": "mes sakome", "ru": "мы говорим"}, {"lt": "jūs sakote", "ru": "вы говорите"}, {"lt": "jie sako", "ru": "они говорят"}],
+    [{"lt": "naujienas", "ru": "новости"}, {"lt": "svarbius žodžius", "ru": "важные слова"}, {"lt": "pastabas", "ru": "замечания"}],
+    [{"lt": "garsiai", "ru": "громко"}, {"lt": "tyliai", "ru": "тихо"}, {"lt": "vėl", "ru": "снова"}]
   ],
   [
-    [{"lt": "studentas", "ru": "студент"}, {"lt": "lektorius", "ru": "лектор"}, {"lt": "mokslininkas", "ru": "ученый"}],
-    [{"lt": "atvertė", "ru": "открыл"}, {"lt": "skaitė", "ru": "читал"}, {"lt": "aptarė", "ru": "обсудил"}],
-    [{"lt": "storą vadovėlį", "ru": "толстый учебник"}, {"lt": "mokslinį straipsnį", "ru": "научную статью"}, {"lt": "temą", "ru": "тему"}]
+    [{"lt": "aš matau", "ru": "я вижу"}, {"lt": "tu matai", "ru": "ты видишь"}, {"lt": "jis mato", "ru": "он видит"}],
+    [{"lt": "jūrą", "ru": "море"}, {"lt": "mišką", "ru": "лес"}, {"lt": "paukštį", "ru": "птицу"}],
+    [{"lt": "pro langą", "ru": "в окно"}, {"lt": "tolumoje", "ru": "вдалеке"}, {"lt": "aukštai", "ru": "высоко"}]
   ],
   [
-    [{"lt": "padavėja", "ru": "официантка"}, {"lt": "virėja", "ru": "повар"}, {"lt": "barmenė", "ru": "барменша"}],
-    [{"lt": "atnešė", "ru": "принесла"}, {"lt": "įpylė", "ru": "налила"}, {"lt": "paruošė", "ru": "приготовила"}],
-    [{"lt": "šaltą vandenį", "ru": "холодную воду"}, {"lt": "stiprią kavą", "ru": "крепкий кофе"}, {"lt": "arbatą", "ru": "чай"}]
+    [{"lt": "mes suprantame", "ru": "мы понимаем"}, {"lt": "jūs suprantate", "ru": "вы понимаете"}, {"lt": "jie supranta", "ru": "они понимают"}],
+    [{"lt": "viską", "ru": "всё"}, {"lt": "klaidą", "ru": "ошибку"}, {"lt": "pamoką", "ru": "урок"}],
+    [{"lt": "puikiai", "ru": "отлично"}, {"lt": "pagaliau", "ru": "наконец-то"}, {"lt": "teisingai", "ru": "правильно"}]
   ]
 ]
