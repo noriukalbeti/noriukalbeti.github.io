@@ -20,8 +20,8 @@
     [{"lt": "virtuvėje", "ru": "на кухне"}, {"lt": "sau", "ru": "себе"}, {"lt": "mums", "ru": "нам"}]
   ],
   [
-    [{"lt": "mama nori", "ru": "мама хочет"}, {"lt": "sesė nori", "ru": "сестра хочет"}, {"lt": "draugė nori", "ru": "подруга хочет"}],
-    [{"lt": "pailsėti", "ru": "отдохнуть"}, {"lt": "miegoti", "ru": "спать"}, {"lt": "valgyti", "ru": "поесть"}],
+    [{"lt": "mama nori", "ru": "мама хочет"}, {"lt": "brolis nori", "ru": "брат хочет"}, {"lt": "draugė nori", "ru": "подруга хочет"}],
+    [{"lt": "pailsėti", "ru": "отдохнуть"}, {"lt": "miegoti", "ru": "спать"}, {"lt": "valgyti", "ru": "есть"}],
     [{"lt": "po darbo", "ru": "после работы"}, {"lt": "šiek tiek", "ru": "немного"}, {"lt": "vėliau", "ru": "позже"}]
   ],
   [
@@ -42,7 +42,7 @@
   [
     [{"lt": "aš matau", "ru": "я вижу"}, {"lt": "tu matai", "ru": "ты видишь"}, {"lt": "jis mato", "ru": "он видит"}],
     [{"lt": "jūrą", "ru": "море"}, {"lt": "mišką", "ru": "лес"}, {"lt": "paukštį", "ru": "птицу"}],
-    [{"lt": "pro langą", "ru": "в окно"}, {"lt": "tolumoje", "ru": "вдалеке"}, {"lt": "aukštai", "ru": "высоко"}]
+    [{"lt": "pro langą", "ru": "в окно"}, {"lt": "tolumoje", "ru": "вдалеке"}, {"lt": "už kalno", "ru": "за горой"}]
   ],
   [
     [{"lt": "mes suprantame", "ru": "мы понимаем"}, {"lt": "jūs suprantate", "ru": "вы понимаете"}, {"lt": "jie supranta", "ru": "они понимают"}],

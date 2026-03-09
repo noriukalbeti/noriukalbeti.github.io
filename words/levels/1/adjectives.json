@@ -12,11 +12,17 @@
   {"lt": [{"word": "mandagus", "forms": "mandagùs, mandagi̇̀", "opposite": "grubus"}], "en": [{"word": "polite"}], "ru": [{"word": "вежливый"}], "context": "поведение"},
   {"lt": [{"word": "nuobodus", "forms": "nuobodùs, nuobodi̇̀", "opposite": "įdomus"}], "en": [{"word": "boring"}], "ru": [{"word": "скучный"}], "context": "лекция, фильм"},
   {"lt": [{"word": "protingas", "forms": "proti̇̀ngas, protingà", "opposite": "kvailus"}], "en": [{"word": "smart"}], "ru": [{"word": "умный"}], "context": "характер"},
+  {"lt": [{"word": "saulėtas", "forms": "saulė́tas, saulėtà", "opposite": "apsiniaukęs / lietingas"}], "en": [{"word": "sunny"}], "ru": [{"word": "солнечный"}], "context": "rytas, oras"},
   {"lt": [{"word": "šykštus", "forms": "šykštùs, šykšti̇̀", "opposite": "dosnus"}], "en": [{"word": "greedy"}], "ru": [{"word": "жадный"}], "context": "характер"},
   {"lt": [{"word": "turtingas", "forms": "turti̇̀ngas, turtingà", "opposite": "vargšas"}], "en": [{"word": "rich"}], "ru": [{"word": "богатый"}], "context": "финансы"},
   {"lt": [{"word": "uždaras", "forms": "ùždaras, uždarà", "opposite": "atviras"}], "en": [{"word": "closed"}], "ru": [{"word": "закрытый"}], "context": "дверь"},
   {"lt": [{"word": "užimtas", "forms": "ùžimtas, užimtà", "opposite": "laisvas"}], "en": [{"word": "busy"}], "ru": [{"word": "занятый"}], "context": "человек"},
   {"lt": [{"word": "vargšas", "forms": "varg̃šas, vargšà", "opposite": "turtingas"}], "en": [{"word": "poor"}], "ru": [{"word": "бедный"}], "context": "финансы"},
   {"lt": [{"word": "vėlus", "forms": "vėlùs, vėli̇̀", "opposite": "ankstyvas"}], "en": [{"word": "late"}], "ru": [{"word": "поздний"}], "context": "время"},
-  {"lt": [{"word": "vėsus", "forms": "vėsùs, vėsi̇̀", "opposite": "karštas"}], "en": [{"word": "cool"}], "ru": [{"word": "прохладный"}], "context": "температура"}
+  {"lt": [{"word": "vėsus", "forms": "vėsùs, vėsi̇̀", "opposite": "karštas"}], "en": [{"word": "cool"}], "ru": [{"word": "прохладный"}], "context": "температура"},
+  {"lt": [{"word": "lietingas", "forms": "lieti̇̀ngas, lietingà", "opposite": "saulėtas"}], "en": [{"word": "rainy"}], "ru": [{"word": "дождливый"}], "context": "oras, diena"},
+  {"lt": [{"word": "dokumentinis", "forms": "dokumeñtinis, dokumentinė", "opposite": "vaidybinis"}], "en": [{"word": "documentary"}], "ru": [{"word": "документальный"}], "context": "filmas, kinas"},
+  {"lt": [{"word": "fantastinis", "forms": "fantãstinis, fantastinė", "opposite": "tikroviškas"}], "en": [{"word": "fantastic, sci-fi"}], "ru": [{"word": "фантастический"}], "context": "filmas, knyga"},
+  {"lt": [{"word": "humanitarinis", "forms": "humanitãrinis, humanitarinė", "opposite": "tikslusis"}], "en": [{"word": "humanitarian"}], "ru": [{"word": "гуманитарный"}], "context": "mokslas, pagalba"},
+  {"lt": [{"word": "istorinis", "forms": "istòrinis, istorinė", "opposite": "šiuolaikinis"}], "en": [{"word": "historical"}], "ru": [{"word": "исторический"}], "context": "įvykis, romanas"}
 ]

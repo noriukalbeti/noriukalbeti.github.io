@@ -98,7 +98,6 @@
   {"lt": [{"word": "pagalba", "stressed": "pagalbà", "gender": "moteriška"}], "en": [{"word": "help"}], "ru": [{"word": "помощь"}]},
   {"lt": [{"word": "pagalbininkas", "stressed": "pagalbìninkas", "gender": "vyriška"}], "en": [{"word": "assistant"}], "ru": [{"word": "помощник"}]},
   {"lt": [{"word": "pareigos", "stressed": "pareĩgos", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "duties"}], "ru": [{"word": "должность"}]},
-  {"lt": [{"word": "pasaulis", "stressed": "pasaũlis", "gender": "vyriška"}], "en": [{"word": "world"}], "ru": [{"word": "мир"}]},
   {"lt": [{"word": "pasas", "stressed": "pãsas", "gender": "vyriška"}], "en": [{"word": "passport"}], "ru": [{"word": "паспорт"}]},
   {"lt": [{"word": "paskola", "stressed": "paskolà", "gender": "moteriška"}], "en": [{"word": "loan"}], "ru": [{"word": "кредит"}]},
   {"lt": [{"word": "paslauga", "stressed": "paslaugà", "gender": "moteriška"}], "en": [{"word": "service"}], "ru": [{"word": "услуга"}]},

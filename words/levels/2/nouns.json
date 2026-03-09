@@ -1,3 +1,20 @@
 [
-  {"lt": [{"word": "galimybė", "stressed": "galimýbė", "gender": "moteriška"}], "en": [{"word": "opportunity"}, {"word": "possibility"}], "ru": [{"word": "возможность"}]}
+  {"lt": [{"word": "galimybė", "stressed": "galimýbė", "gender": "moteriška"}], "en": [{"word": "opportunity"}, {"word": "possibility"}], "ru": [{"word": "возможность"}]},
+  {"lt": [{"word": "gamyba", "stressed": "gamýba", "gender": "moteriška"}], "en": [{"word": "production"}], "ru": [{"word": "производство"}]},
+  {"lt": [{"word": "žemė", "stressed": "žẽmė", "gender": "moteriška"}], "en": [{"word": "earth"}, {"word": "land"}, {"word": "ground"}], "ru": [{"word": "земля"}]},
+  {"lt": [{"word": "valstybė", "stressed": "valstýbė", "gender": "moteriška"}], "en": [{"word": "state"}], "ru": [{"word": "государство"}]},
+  {"lt": [{"word": "dalis", "stressed": "dalìs", "gender": "moteriška"}], "en": [{"word": "part"}], "ru": [{"word": "часть"}]},
+  {"lt": [{"word": "ūkis", "stressed": "ū́kis", "gender": "vyriška"}], "en": [{"word": "farm"}, {"word": "economy"}], "ru": [{"word": "хозяйство"}]},
+  {"lt": [{"word": "dievas", "stressed": "diẽvas", "gender": "vyriška"}], "en": [{"word": "god"}], "ru": [{"word": "бог"}]},
+  {"lt": [{"word": "pavyzdys", "stressed": "pavyzdỹs", "gender": "vyriška"}], "en": [{"word": "example"}], "ru": [{"word": "пример"}]},
+  {"lt": [{"word": "lietuvis", "stressed": "lietùvis", "gender": "vyriška"}], "en": [{"word": "Lithuanian (person)"}], "ru": [{"word": "литовец"}]},
+  {"lt": [{"word": "kultūra", "stressed": "kultūrà", "gender": "moteriška"}], "en": [{"word": "culture"}], "ru": [{"word": "культура"}]},
+  {"lt": [{"word": "būdas", "stressed": "bū̃das", "gender": "vyriška"}], "en": [{"word": "way"}, {"word": "method"}, {"word": "character"}], "ru": [{"word": "способ"}, {"word": "характер"}]},
+  {"lt": [{"word": "asmuo", "stressed": "asmuõ", "gender": "vyriška"}], "en": [{"word": "person"}], "ru": [{"word": "лицо"}, {"word": "личность"}]},
+  {"lt": [{"word": "skyrius", "stressed": "skýrius", "gender": "vyriška"}], "en": [{"word": "department"}, {"word": "chapter"}], "ru": [{"word": "отдел"}, {"word": "глава"}]},
+  {"lt": [{"word": "gaminys", "stressed": "gaminỹs", "gender": "vyriška"}], "en": [{"word": "product"}], "ru": [{"word": "изделие"}]},
+  {"lt": [{"word": "tauta", "stressed": "tautà", "gender": "moteriška"}], "en": [{"word": "nation"}], "ru": [{"word": "нация"}, {"word": "народ"}]},
+  {"lt": [{"word": "mintis", "stressed": "mintìs", "gender": "moteriška"}], "en": [{"word": "thought"}, {"word": "idea"}], "ru": [{"word": "мысль"}]},
+  {"lt": [{"word": "uoliena", "stressed": "uolíena", "gender": "moteriška"}], "en": [{"word": "rock (geology)"}], "ru": [{"word": "горная порода"}]},
+  {"lt": [{"word": "įrengimas", "stressed": "įrengìmas", "gender": "vyriška"}], "en": [{"word": "installation"}, {"word": "equipment"}], "ru": [{"word": "устройство"}, {"word": "оборудование"}]}
 ]
