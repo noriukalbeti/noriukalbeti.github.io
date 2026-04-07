@@ -2,6 +2,7 @@
   {"lt": [{"word": "aktorius", "stressed": "ãktorius", "gender": "vyriška"}], "en": [{"word": "actor"}], "ru": [{"word": "актер"}]},
   {"lt": [{"word": "avietė", "stressed": "aviẽtė", "gender": "moteriška"}], "en": [{"word": "raspberry"}], "ru": [{"word": "малина"}]},
   {"lt": [{"word": "ąžuolas", "stressed": "ą́žuolas", "gender": "vyriška"}], "en": [{"word": "oak"}], "ru": [{"word": "дуб"}]},
+  {"lt": [{"word": "banga", "stressed": "bangà", "gender": "moteriška"}], "en": [{"word": "wave"}], "ru": [{"word": "волна"}]},
   {"lt": [{"word": "bankas", "stressed": "bañkas", "gender": "vyriška"}], "en": [{"word": "bank"}], "ru": [{"word": "банк"}]},
   {"lt": [{"word": "braškė", "stressed": "brãškė", "gender": "moteriška"}], "en": [{"word": "strawberry"}], "ru": [{"word": "клубника"}]},
   {"lt": [{"word": "buhalteris", "stressed": "buhálteris", "gender": "vyriška"}], "en": [{"word": "accountant"}], "ru": [{"word": "бухгалтер"}, {"word": "бух"}]},
