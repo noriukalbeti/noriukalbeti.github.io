@@ -1,5 +1,6 @@
 [
   {"lt": [{"word": "atrodyti", "forms": "atródyti, atrodo, atrodė", "conjugation": "III"}], "en": [{"word": "to look like"}, {"word": "to seem"}], "ru": [{"word": "выглядеть"}, {"word": "казаться"}], "context": "внешний вид или мнение"},
+  {"lt": [{"word": "atsakyti", "forms": "atsakýti, atsako, atsakė", "conjugation": "III"}], "en": [{"word": "to answer"}], "ru": [{"word": "ответить"}, {"word": "отвечать"}], "context": "на вопрос"},
   {"lt": [{"word": "atsiprašyti", "forms": "atsiprašýti, atsiprãšo, atsiprãšė", "conjugation": "I"}], "en": [{"word": "to apologize"}, {"word": "to excuse oneself"}], "ru": [{"word": "извиняться"}, {"word": "извиниться"}, {"word": "принести извинения"}, {"word": "просить прощения"}], "context": "этикет, признание вины"},
   {"lt": [{"word": "aplankyti", "forms": "aplankýti, aplanko, aplankė", "conjugation": "III"}], "en": [{"word": "to visit"}], "ru": [{"word": "посетить"}, {"word": "навестить"}], "context": "людей или места"},
   {"lt": [{"word": "apsirengti", "forms": "apsireñgti, apsirengia, apsirengė", "conjugation": "I"}], "en": [{"word": "to get dressed"}], "ru": [{"word": "одеться"}, {"word": "одеваться"}], "context": "одежду на себя"},
@@ -20,6 +21,7 @@
   {"lt": [{"word": "kepti", "forms": "kèpti, kẽpa, kẽpė", "conjugation": "I"}], "en": [{"word": "to bake"}, {"word": "to fry"}, {"word": "to roast"}], "ru": [{"word": "печь"}, {"word": "жарить"}], "context": "приготовление пищи"},
   {"lt": [{"word": "kirpti", "forms": "kir̃pti, ker̃pa, kir̃po", "conjugation": "I"}], "en": [{"word": "to cut (with scissors)"}, {"word": "to shear"}, {"word": "to trim"}], "ru": [{"word": "стричь"}, {"word": "резать"}], "context": "волосы, ногти, ткань, бумага"},
   {"lt": [{"word": "manyti", "forms": "manýti, mãno, mãnė", "conjugation": "III"}], "en": [{"word": "to think"}, {"word": "to believe"}], "ru": [{"word": "полагать"}, {"word": "считать"}, {"word": "думать"}], "context": "выражать мнение"},
+  {"lt": [{"word": "mokytis", "forms": "mókytis, mokosi, mokėsi", "conjugation": "III"}], "en": [{"word": "to study"}, {"word": "to learn"}], "ru": [{"word": "учиться"}, {"word": "изучать"}, {"word": "зубрить"}], "context": "изучать предмет"},
   {"lt": [{"word": "pasakoti", "forms": "pãsakoti, pasakoja, pasakojo", "conjugation": "I"}], "en": [{"word": "to tell"}, {"word": "to narrate"}], "ru": [{"word": "рассказывать"}, {"word": "рассказать"}], "context": "историю или новости"},
   {"lt": [{"word": "pietauti", "forms": "pietáuti, pietauja, pietavo", "conjugation": "I"}], "en": [{"word": "to have lunch"}], "ru": [{"word": "обедать"}, {"word": "перекусывать"}], "context": "днем"},
   {"lt": [{"word": "pusryčiauti", "forms": "pusryčiáuti, pusryčiauja, pusryčiavo", "conjugation": "I"}], "en": [{"word": "to have breakfast"}], "ru": [{"word": "завтракать"}], "context": "утром"},

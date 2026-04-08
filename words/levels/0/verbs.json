@@ -1,5 +1,4 @@
 [
-  {"lt": [{"word": "atsakyti", "forms": "atsakýti, atsako, atsakė", "conjugation": "III"}], "en": [{"word": "to answer"}], "ru": [{"word": "ответить"}, {"word": "отвечать"}], "context": "на вопрос"},
   {"lt": [{"word": "būti", "forms": "bū́ti, yra, buvo", "conjugation": "Irregular"}], "en": [{"word": "to be"}], "ru": [{"word": "быть"}, {"word": "находиться"}], "context": "состояние, место"},
   {"lt": [{"word": "dainuoti", "forms": "dainúoti, dainuoja, dainavo", "conjugation": "I"}], "en": [{"word": "to sing"}], "ru": [{"word": "петь"}], "context": "песню"},
   {"lt": [{"word": "daryti", "forms": "darýti, daro, darė", "conjugation": "III"}], "en": [{"word": "to do"}, {"word": "to make"}], "ru": [{"word": "делать"}], "context": "выполнять действие"},
@@ -23,7 +22,6 @@
   {"lt": [{"word": "matyti", "forms": "matýti, mato, matė", "conjugation": "III"}], "en": [{"word": "to see"}], "ru": [{"word": "видеть"}, {"word": "зреть"}, {"word": "палить"}], "context": "зрительное восприятие"},
   {"lt": [{"word": "miegoti", "forms": "miegóti, miega, miegojo", "conjugation": "I"}], "en": [{"word": "to sleep"}], "ru": [{"word": "спать"}, {"word": "дрыхнуть"}], "context": "состояние сна"},
   {"lt": [{"word": "mokėti", "forms": "mokė́ti, moka, mokėjo", "conjugation": "I"}], "en": [{"word": "to know how"}, {"word": "to pay"}], "ru": [{"word": "уметь"}, {"word": "платить"}, {"word": "отстегивать"}], "context": "навык или оплата"},
-  {"lt": [{"word": "mokytis", "forms": "mókytis, mokosi, mokėsi", "conjugation": "III"}], "en": [{"word": "to study"}, {"word": "to learn"}], "ru": [{"word": "учиться"}, {"word": "изучать"}, {"word": "зубрить"}], "context": "изучать предмет"},
   {"lt": [{"word": "mylėti", "forms": "mylė́ti, myli, mylėjo", "conjugation": "II"}], "en": [{"word": "to love"}], "ru": [{"word": "любить"}], "context": "чувства"},
   {"lt": [{"word": "norėti", "forms": "norė́ti, nori, norėjo", "conjugation": "II"}], "en": [{"word": "to want"}], "ru": [{"word": "хотеть"}, {"word": "желать"}], "context": "желание"},
   {"lt": [{"word": "padėti", "forms": "padė́ti, padeda, padėjo", "conjugation": "I"}], "en": [{"word": "to help"}, {"word": "to assist"}], "ru": [{"word": "помогать"}, {"word": "подсоблять"}], "context": "содействие"},
@@ -48,7 +46,6 @@
   {"lt": [{"word": "vairuoti", "forms": "vairúoti, vairuoja, vairavo", "conjugation": "I"}], "en": [{"word": "to drive"}], "ru": [{"word": "водить"}, {"word": "управлять"}, {"word": "рулить"}], "context": "машиной"},
   {"lt": [{"word": "valgyti", "forms": "válgyti, valgo, valgė", "conjugation": "III"}], "en": [{"word": "to eat"}], "ru": [{"word": "есть"}, {"word": "кушать"}, {"word": "лопать"}, {"word": "хомячить"}], "context": "пищу"},
   {"lt": [{"word": "važiuoti", "forms": "važiúoti, važiuoja, važiavo", "conjugation": "I"}], "en": [{"word": "to go"}, {"word": "to ride"}], "ru": [{"word": "ехать"}, {"word": "катить"}], "context": "на транспорте"},
-  {"lt": [{"word": "virti", "forms": "vir̃ti, verda, virė", "conjugation": "I"}], "en": [{"word": "to cook"}, {"word": "to boil"}], "ru": [{"word": "варить"}], "context": "еду"},
   {"lt": [{"word": "žaisti", "forms": "žaĩsti, žaidžia, žaidė", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "context": "игры, развлечения"},
   {"lt": [{"word": "žinoti", "forms": "žinóti, ži̇̀no, žinójo", "conjugation": "III"}], "en": [{"word": "to know"}], "ru": [{"word": "знать"}], "context": "информацию"},
   {"lt": [{"word": "žiūrėti", "forms": "žiūrė́ti, žiūri, žiūrėjo", "conjugation": "II"}], "en": [{"word": "to watch"}, {"word": "to look"}], "ru": [{"word": "смотреть"}, {"word": "глядеть"}], "context": "ТВ или на объект"}
