@@ -1,13 +1,13 @@
 [
-  {"lt": [{"word": "blogai", "forms": "blogai̇̃", "opposite": "gerai̇̃"}], "en": [{"word": "badly"}], "ru": [{"word": "плохо"}], "context": "оценка"},
-  {"lt": [{"word": "čia", "forms": "čià", "opposite": "ten"}], "en": [{"word": "here"}], "ru": [{"word": "здесь"}], "context": "место"},
-  {"lt": [{"word": "gerai", "forms": "gerai̇̃", "opposite": "blogai̇̃"}], "en": [{"word": "well"}], "ru": [{"word": "хорошо"}], "context": "оценка"},
-  {"lt": [{"word": "labai", "forms": "labai̇̃"}], "en": [{"word": "very"}], "ru": [{"word": "очень"}], "context": "степень"},
-  {"lt": [{"word": "neteisingai", "forms": "neteisi̇̀ngai"}], "en": [{"word": "incorrectly"}], "ru": [{"word": "неправильно"}, {"word": "неверно"}, {"word": "несправедливо"}], "context": "оценка"},
-  {"lt": [{"word": "niekada", "forms": "niekadà", "opposite": "visadà"}], "en": [{"word": "never"}], "ru": [{"word": "никогда"}], "context": "частота"},
-  {"lt": [{"word": "retai", "forms": "retai̇̃", "opposite": "dažnai̇̃"}], "en": [{"word": "rarely"}], "ru": [{"word": "редко"}], "context": "частота"},
-  {"lt": [{"word": "teisingai", "forms": "teisi̇̀ngai", "opposite": "klaidingai̇̃"}], "en": [{"word": "correctly"}], "ru": [{"word": "верно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}], "context": "оценка"},
-  {"lt": [{"word": "ten", "forms": "teñ", "opposite": "čia"}], "en": [{"word": "there"}], "ru": [{"word": "там"}], "context": "место"},
-  {"lt": [{"word": "tikrai", "forms": "tikrai̇̃"}], "en": [{"word": "really"}], "ru": [{"word": "конечно"}, {"word": "точно"}, {"word": "верно"}, {"word": "истинно"}, {"word": "правильно"}, {"word": "несомненно"}, {"word": "действительно"}, {"word": "на самом деле"}, {"word": "в самом деле"}], "context": "уверенность"},
-  {"lt": [{"word": "visada", "forms": "visadà", "opposite": "niekadà"}], "en": [{"word": "always"}], "ru": [{"word": "всегда"}], "context": "частота"}
+  {"lt": [{"word": "blogai", "forms": "blogai̇̃", "opposite": "gerai̇̃"}], "en": [{"word": "badly"}], "ru": [{"word": "плохо"}], "context": "оценка", "uk": [{"word": "погано"}]},
+  {"lt": [{"word": "čia", "forms": "čià", "opposite": "ten"}], "en": [{"word": "here"}], "ru": [{"word": "здесь"}], "context": "место", "uk": [{"word": "тут"}]},
+  {"lt": [{"word": "gerai", "forms": "gerai̇̃", "opposite": "blogai̇̃"}], "en": [{"word": "well"}], "ru": [{"word": "хорошо"}], "context": "оценка", "uk": [{"word": "добре"}]},
+  {"lt": [{"word": "labai", "forms": "labai̇̃"}], "en": [{"word": "very"}], "ru": [{"word": "очень"}], "context": "степень", "uk": [{"word": "дуже"}]},
+  {"lt": [{"word": "neteisingai", "forms": "neteisi̇̀ngai"}], "en": [{"word": "incorrectly"}], "ru": [{"word": "неправильно"}, {"word": "неверно"}, {"word": "несправедливо"}], "context": "оценка", "uk": [{"word": "неправильно"}, {"word": "невірно"}, {"word": "несправедливо"}]},
+  {"lt": [{"word": "niekada", "forms": "niekadà", "opposite": "visadà"}], "en": [{"word": "never"}], "ru": [{"word": "никогда"}], "context": "частота", "uk": [{"word": "ніколи"}]},
+  {"lt": [{"word": "retai", "forms": "retai̇̃", "opposite": "dažnai̇̃"}], "en": [{"word": "rarely"}], "ru": [{"word": "редко"}], "context": "частота", "uk": [{"word": "рідко"}]},
+  {"lt": [{"word": "teisingai", "forms": "teisi̇̀ngai", "opposite": "klaidingai̇̃"}], "en": [{"word": "correctly"}], "ru": [{"word": "верно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}], "context": "оценка", "uk": [{"word": "вірно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}]},
+  {"lt": [{"word": "ten", "forms": "teñ", "opposite": "čia"}], "en": [{"word": "there"}], "ru": [{"word": "там"}], "context": "место", "uk": [{"word": "там"}]},
+  {"lt": [{"word": "tikrai", "forms": "tikrai̇̃"}], "en": [{"word": "really"}], "ru": [{"word": "конечно"}, {"word": "точно"}, {"word": "верно"}, {"word": "истинно"}, {"word": "правильно"}, {"word": "несомненно"}, {"word": "действительно"}, {"word": "на самом деле"}, {"word": "в самом деле"}], "context": "уверенность", "uk": [{"word": "звісно"}, {"word": "точно"}, {"word": "вірно"}, {"word": "істинно"}, {"word": "правильно"}, {"word": "безсумнівно"}, {"word": "справді"}, {"word": "насправді"}, {"word": "воістину"}]},
+  {"lt": [{"word": "visada", "forms": "visadà", "opposite": "niekadà"}], "en": [{"word": "always"}], "ru": [{"word": "всегда"}], "context": "частота", "uk": [{"word": "завжди"}]}
 ]
