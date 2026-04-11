@@ -1,14 +1,14 @@
 [
-  {"lt": [{"word": "fabrikas", "stressed": "fãbrikas", "gender": "vyriška"}], "en": [{"word": "factory"}], "ru": [{"word": "фабрика"}]},
-  {"lt": [{"word": "faksas", "stressed": "fãksas", "gender": "vyriška"}], "en": [{"word": "fax"}], "ru": [{"word": "факс"}]},
-  {"lt": [{"word": "fakultetas", "stressed": "fakultètas", "gender": "vyriška"}], "en": [{"word": "faculty"}], "ru": [{"word": "факультет"}]},
-  {"lt": [{"word": "festivalis", "stressed": "festivãlis", "gender": "vyriška"}], "en": [{"word": "festival"}], "ru": [{"word": "фестиваль"}]},
-  {"lt": [{"word": "figūra", "stressed": "figūrà", "gender": "moteriška"}], "en": [{"word": "figure"}], "ru": [{"word": "фигура"}]},
-  {"lt": [{"word": "filmas", "stressed": "fìlmas", "gender": "vyriška"}], "en": [{"word": "movie"}, {"word": "film"}], "ru": [{"word": "фильм"}]},
-  {"lt": [{"word": "fizika", "stressed": "fìzika", "gender": "moteriška"}], "en": [{"word": "physics"}], "ru": [{"word": "физика"}]},
-  {"lt": [{"word": "flomasteris", "stressed": "flomásteris", "gender": "vyriška"}], "en": [{"word": "felt-tip pen"}], "ru": [{"word": "фломастер"}]},
-  {"lt": [{"word": "forma", "stressed": "fòrma", "gender": "moteriška"}], "en": [{"word": "form"}, {"word": "shape"}], "ru": [{"word": "форма"}]},
-  {"lt": [{"word": "fotografas", "stressed": "fotògrafas", "gender": "vyriška"}], "en": [{"word": "photographer"}], "ru": [{"word": "фотограф"}]},
-  {"lt": [{"word": "fotografija", "stressed": "fotogrãfija", "gender": "moteriška"}], "en": [{"word": "photography"}], "ru": [{"word": "фотография", "context": "искусство/снимок"}]},
-  {"lt": [{"word": "futbolas", "stressed": "fùtbolas", "gender": "vyriška"}], "en": [{"word": "football"}, {"word": "soccer"}], "ru": [{"word": "футбол"}]}
+  {"lt": [{"word": "fabrikas", "stressed": "fãbrikas", "gender": "vyriška"}], "en": [{"word": "factory"}], "ru": [{"word": "фабрика"}], "uk": [{"word": "фабрика"}]},
+  {"lt": [{"word": "faksas", "stressed": "fãksas", "gender": "vyriška"}], "en": [{"word": "fax"}], "ru": [{"word": "факс"}], "uk": [{"word": "факс"}]},
+  {"lt": [{"word": "fakultetas", "stressed": "fakultètas", "gender": "vyriška"}], "en": [{"word": "faculty"}], "ru": [{"word": "факультет"}], "uk": [{"word": "факультет"}]},
+  {"lt": [{"word": "festivalis", "stressed": "festivãlis", "gender": "vyriška"}], "en": [{"word": "festival"}], "ru": [{"word": "фестиваль"}], "uk": [{"word": "фестиваль"}]},
+  {"lt": [{"word": "figūra", "stressed": "figūrà", "gender": "moteriška"}], "en": [{"word": "figure"}], "ru": [{"word": "фигура"}], "uk": [{"word": "фігура"}]},
+  {"lt": [{"word": "filmas", "stressed": "fìlmas", "gender": "vyriška"}], "en": [{"word": "movie"}, {"word": "film"}], "ru": [{"word": "фильм"}], "uk": [{"word": "фільм"}]},
+  {"lt": [{"word": "fizika", "stressed": "fìzika", "gender": "moteriška"}], "en": [{"word": "physics"}], "ru": [{"word": "физика"}], "uk": [{"word": "фізика"}]},
+  {"lt": [{"word": "flomasteris", "stressed": "flomásteris", "gender": "vyriška"}], "en": [{"word": "felt-tip pen"}], "ru": [{"word": "фломастер"}], "uk": [{"word": "фломастер"}]},
+  {"lt": [{"word": "forma", "stressed": "fòrma", "gender": "moteriška"}], "en": [{"word": "form"}, {"word": "shape"}], "ru": [{"word": "форма"}], "uk": [{"word": "форма"}]},
+  {"lt": [{"word": "fotografas", "stressed": "fotògrafas", "gender": "vyriška"}], "en": [{"word": "photographer"}], "ru": [{"word": "фотограф"}], "uk": [{"word": "фотограф"}]},
+  {"lt": [{"word": "fotografija", "stressed": "fotogrãfija", "gender": "moteriška"}], "en": [{"word": "photography"}], "ru": [{"word": "фотография", "context": "искусство/снимок"}], "uk": [{"word": "фотографія"}]},
+  {"lt": [{"word": "futbolas", "stressed": "fùtbolas", "gender": "vyriška"}], "en": [{"word": "football"}, {"word": "soccer"}], "ru": [{"word": "футбол"}], "uk": [{"word": "футбол"}]}
 ]

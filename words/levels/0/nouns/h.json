@@ -1,6 +1,6 @@
 [
-  {"lt": [{"word": "hamburgeris", "stressed": "hambùrgeris", "gender": "vyriška"}], "en": [{"word": "hamburger"}], "ru": [{"word": "гамбургер"}]},
-  {"lt": [{"word": "herbas", "stressed": "herbas", "gender": "vyriška"}], "en": [{"word": "coat of arms"}], "ru": [{"word": "герб"}]},
-  {"lt": [{"word": "himnas", "stressed": "hìmnas", "gender": "vyriška"}], "en": [{"word": "anthem"}], "ru": [{"word": "гимн"}]},
-  {"lt": [{"word": "humoras", "stressed": "humòras", "gender": "vyriška"}], "en": [{"word": "humor"}], "ru": [{"word": "юмор"}]}
+  {"lt": [{"word": "hamburgeris", "stressed": "hambùrgeris", "gender": "vyriška"}], "en": [{"word": "hamburger"}], "ru": [{"word": "гамбургер"}], "uk": [{"word": "гамбургер"}]},
+  {"lt": [{"word": "herbas", "stressed": "herbas", "gender": "vyriška"}], "en": [{"word": "coat of arms"}], "ru": [{"word": "герб"}], "uk": [{"word": "герб"}]},
+  {"lt": [{"word": "himnas", "stressed": "hìmnas", "gender": "vyriška"}], "en": [{"word": "anthem"}], "ru": [{"word": "гимн"}], "uk": [{"word": "гімн"}]},
+  {"lt": [{"word": "humoras", "stressed": "humòras", "gender": "vyriška"}], "en": [{"word": "humor"}], "ru": [{"word": "юмор"}], "uk": [{"word": "гумор"}]}
 ]

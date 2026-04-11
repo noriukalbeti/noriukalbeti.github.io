@@ -1,15 +1,15 @@
 [
-  {"lt": [{"word": "gabalas", "stressed": "gãbalas", "gender": "vyriška"}], "en": [{"word": "piece"}], "ru": [{"word": "кусок"}]},
-  {"lt": [{"word": "gabaliukas", "stressed": "gabaliùkas", "gender": "vyriška"}], "en": [{"word": "small piece"}, {"word": "bit"}], "ru": [{"word": "кусочек"}]},
-  {"lt": [{"word": "galva", "stressed": "galvà", "gender": "moteriška"}], "en": [{"word": "head"}], "ru": [{"word": "голова"}]},
-  {"lt": [{"word": "gatvė", "stressed": "gãtvė", "gender": "moteriška"}], "en": [{"word": "street"}], "ru": [{"word": "улица"}]},
-  {"lt": [{"word": "gėlė", "stressed": "gėlė̃", "gender": "moteriška"}], "en": [{"word": "flower"}], "ru": [{"word": "цветок"}]},
-  {"lt": [{"word": "gyvenimas", "stressed": "gyvẽnimas", "gender": "vyriška"}], "en": [{"word": "life"}], "ru": [{"word": "жизнь"}]},
-  {"lt": [{"word": "gyventojas", "stressed": "gyvéntojas", "gender": "vyriška"}], "en": [{"word": "resident"}], "ru": [{"word": "житель"}]},
-  {"lt": [{"word": "giminaitis", "stressed": "gimináitis", "gender": "vyriška"}], "en": [{"word": "relative"}], "ru": [{"word": "родственник"}]},
-  {"lt": [{"word": "giminė", "stressed": "giminė̃", "gender": "moteriška"}], "en": [{"word": "kin"}, {"word": "family"}], "ru": [{"word": "родня"}]},
-  {"lt": [{"word": "gimtadienis", "stressed": "gimtãdienis", "gender": "vyriška"}], "en": [{"word": "birthday"}], "ru": [{"word": "день рождения"}]},
-  {"lt": [{"word": "gira", "stressed": "girà", "gender": "moteriška"}], "en": [{"word": "kvass"}], "ru": [{"word": "квас"}]},
-  {"lt": [{"word": "gitara", "stressed": "gitãra", "gender": "moteriška"}], "en": [{"word": "guitar"}], "ru": [{"word": "гитара"}]},
-  {"lt": [{"word": "grupė", "stressed": "grùpė", "gender": "moteriška"}], "en": [{"word": "group"}], "ru": [{"word": "группа"}]}
+  {"lt": [{"word": "gabalas", "stressed": "gãbalas", "gender": "vyriška"}], "en": [{"word": "piece"}], "ru": [{"word": "кусок"}], "uk": [{"word": "шматок"}]},
+  {"lt": [{"word": "gabaliukas", "stressed": "gabaliùkas", "gender": "vyriška"}], "en": [{"word": "small piece"}, {"word": "bit"}], "ru": [{"word": "кусочек"}], "uk": [{"word": "шматочок"}]},
+  {"lt": [{"word": "galva", "stressed": "galvà", "gender": "moteriška"}], "en": [{"word": "head"}], "ru": [{"word": "голова"}], "uk": [{"word": "голова"}]},
+  {"lt": [{"word": "gatvė", "stressed": "gãtvė", "gender": "moteriška"}], "en": [{"word": "street"}], "ru": [{"word": "улица"}], "uk": [{"word": "вулиця"}]},
+  {"lt": [{"word": "gėlė", "stressed": "gėlė̃", "gender": "moteriška"}], "en": [{"word": "flower"}], "ru": [{"word": "цветок"}], "uk": [{"word": "квітка"}]},
+  {"lt": [{"word": "gyvenimas", "stressed": "gyvẽnimas", "gender": "vyriška"}], "en": [{"word": "life"}], "ru": [{"word": "жизнь"}], "uk": [{"word": "життя"}]},
+  {"lt": [{"word": "gyventojas", "stressed": "gyvéntojas", "gender": "vyriška"}], "en": [{"word": "resident"}], "ru": [{"word": "житель"}], "uk": [{"word": "житель"}, {"word": "мешканець"}]},
+  {"lt": [{"word": "giminaitis", "stressed": "gimináitis", "gender": "vyriška"}], "en": [{"word": "relative"}], "ru": [{"word": "родственник"}], "uk": [{"word": "родич"}]},
+  {"lt": [{"word": "giminė", "stressed": "giminė̃", "gender": "moteriška"}], "en": [{"word": "kin"}, {"word": "family"}], "ru": [{"word": "родня"}], "uk": [{"word": "рідня"}]},
+  {"lt": [{"word": "gimtadienis", "stressed": "gimtãdienis", "gender": "vyriška"}], "en": [{"word": "birthday"}], "ru": [{"word": "день рождения"}], "uk": [{"word": "день народження"}]},
+  {"lt": [{"word": "gira", "stressed": "girà", "gender": "moteriška"}], "en": [{"word": "kvass"}], "ru": [{"word": "квас"}], "uk": [{"word": "квас"}]},
+  {"lt": [{"word": "gitara", "stressed": "gitãra", "gender": "moteriška"}], "en": [{"word": "guitar"}], "ru": [{"word": "гитара"}], "uk": [{"word": "гітара"}]},
+  {"lt": [{"word": "grupė", "stressed": "grùpė", "gender": "moteriška"}], "en": [{"word": "group"}], "ru": [{"word": "группа"}], "uk": [{"word": "група"}]}
 ]
