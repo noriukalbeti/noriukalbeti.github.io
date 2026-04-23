@@ -5,7 +5,7 @@
   {"lt": [{"word": "draugiškas", "forms": "draugiškàs, draugiškà", "opposite": "priešiškas"}], "en": [{"word": "friendly"}], "ru": [{"word": "дружелюбный"}], "uk": [{"word": "дружелюбний"}], "context": "характер"},
   {"lt": [{"word": "drėgnas", "forms": "drėgnàs, drėgnà", "opposite": "sausas"}], "en": [{"word": "damp"}, {"word": "humid"}], "ru": [{"word": "влажный"}], "uk": [{"word": "вологий"}], "context": "погода, воздух"},
   {"lt": [{"word": "dryžuotas", "forms": "dryžuotàs, dryžuotà"}], "en": [{"word": "striped"}], "ru": [{"word": "полосатый"}], "uk": [{"word": "смугастий"}], "context": "ткань, одежда"},
-  {"lt": [{"word": "garbanoti", "forms": "garbanotì, garbanotà", "opposite": "tiesūs"}], "en": [{"word": "curly"}], "ru": [{"word": "кудрявый"}], "uk": [{"word": "кучерявий"}], "context": "волосы"},
+  {"lt": [{"word": "garbanótas", "forms": "garbanótas, garbanóta", "opposite": "tiesūs"}], "en": [{"word": "curly"}], "ru": [{"word": "кудрявый"}], "uk": [{"word": "кучерявий"}], "context": "волосы"},
   {"lt": [{"word": "gazuotas", "forms": "gazuotàs, gazuotà", "opposite": "negazuotas"}], "en": [{"word": "sparkling"}, {"word": "carbonated"}], "ru": [{"word": "газированный"}], "uk": [{"word": "газований"}], "context": "напиток, вода"},
   {"lt": [{"word": "gėlėtas", "forms": "gėlėtàs, gėlėtà"}], "en": [{"word": "floral"}], "ru": [{"word": "в цветочек"}], "uk": [{"word": "квітчастий"}], "context": "ткань, одежда"},
   {"lt": [{"word": "išvykstantis", "forms": "išvykstantis, išvykstanti"}], "en": [{"word": "departing"}], "ru": [{"word": "отбывающий"}], "uk": [{"word": "той, що відбуває"}], "context": "аэропорт, транспорт"},
