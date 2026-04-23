@@ -115,7 +115,7 @@
   {"lt": [{"word": "kažkas", "stressed": "kažkàs"}], "ru": [{"word": "кто-то"}, {"word": "что-то"}], "uk": [{"word": "хтось"}, {"word": "щось"}]},
   {"lt": [{"word": "mano", "stressed": "màno"}], "ru": [{"word": "мой"}], "uk": [{"word": "мій"}]},
   {"lt": [{"word": "mes", "stressed": "mẽs"}], "ru": [{"word": "мы"}], "uk": [{"word": "ми"}]},
-  {"lt": [{"word": "mūsų", "stressed": "mū́sų"}], "ru": [{"word": "наш"}], "uk": [{"word": "наш"}]},
+  {"lt": [{"word": "mūsų", "stressed": "mū́sų"}], "ru": [{"word": "наш"}, {"word": "наша"}, {"word": "наше"}, {"word": "наши"}], "en": [{"word": "our"}], "uk": [{"word": "наш"}, {"word": "наша"}, {"word": "наше"}, {"word": "наші"}]},
   {"lt": [{"word": "šis", "stressed": "šìs"}], "ru": [{"word": "этот"}], "uk": [{"word": "цей"}]},
   {"lt": [{"word": "šie", "stressed": "šiẽ"}], "ru": [{"word": "эти"}], "uk": [{"word": "ці"}]},
   {"lt": [{"word": "šitas", "stressed": "šìtas"}], "ru": [{"word": "этот"}], "uk": [{"word": "цей"}]},
