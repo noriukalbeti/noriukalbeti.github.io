@@ -1,0 +1,21 @@
+[
+  {"lt":[{"word":"aiškiai","stressed":"aiškiaĩ"}],"en":[{"word":"clearly"}],"ru":[{"word":"ясно"},{"word":"чётко"}],"uk":[{"word":"ясно"},{"word":"чітко"}]},
+  {"lt":[{"word":"aukštai","stressed":"aukštaĩ"}],"en":[{"word":"high"},{"word":"highly"},{"word":"aloft"}],"ru":[{"word":"высоко"}],"uk":[{"word":"високо"}]},
+  {"lt":[{"word":"aukštyn","stressed":"aukštỹn"}],"en":[{"word":"upwards"}],"ru":[{"word":"вверх"}],"uk":[{"word":"вгору"}]},
+  {"lt":[{"word":"bet kada","stressed":"bet kadà"}],"en":[{"word":"anytime"},{"word":"whenever"}],"ru":[{"word":"когда угодно"}],"uk":[{"word":"будь-коли"}]},
+  {"lt":[{"word":"bet kur","stressed":"bet kur̃"}],"en":[{"word":"anywhere"}],"ru":[{"word":"где угодно"}],"uk":[{"word":"будь-де"}]},
+  {"lt":[{"word":"dažnai","stressed":"dažnaĩ"}],"en":[{"word":"often"},{"word":"frequently"}],"ru":[{"word":"часто"}],"uk":[{"word":"часто"}]},
+  {"lt":[{"word":"greitai","stressed":"greitaĩ"}],"en":[{"word":"fast"},{"word":"quickly"}],"ru":[{"word":"быстро"}],"uk":[{"word":"швидко"}]},
+  {"lt":[{"word":"kartais","stressed":"kartaĩs"}],"en":[{"word":"sometimes"}],"ru":[{"word":"иногда"}],"uk":[{"word":"іноді"}]},
+  {"lt":[{"word":"laisvai","stressed":"laisvai"}],"en":[{"word":"freely"},{"word":"fluently"}],"ru":[{"word":"свободно"}],"uk":[{"word":"вільно"}]},
+  {"lt":[{"word":"lėtai","stressed":"lėtaĩ"}],"en":[{"word":"slowly"}],"ru":[{"word":"медленно"}],"uk":[{"word":"повільно"}]},
+  {"lt":[{"word":"mandagiai","stressed":"mandagiaĩ"}],"en":[{"word":"politely"}],"ru":[{"word":"вежливо"}],"uk":[{"word":"ввічливо"}]},
+  {"lt":[{"word":"netyčia","stressed":"netyčià"}],"en":[{"word":"accidentally"},{"word":"unintentionally"}],"ru":[{"word":"случайно"},{"word":"нечаянно"}],"uk":[{"word":"випадково"}]},
+  {"lt":[{"word":"normaliai","stressed":"normaliaĩ"}],"en":[{"word":"normally"},{"word":"usually"}],"ru":[{"word":"нормально"}],"uk":[{"word":"нормально"}]},
+  {"lt":[{"word":"nuolat","stressed":"nuolat"}],"en":[{"word":"constantly"},{"word":"always"},{"word":"regularly"}],"ru":[{"word":"постоянно"}],"uk":[{"word":"постійно"}]},
+  {"lt":[{"word":"tikrai","stressed":"tikraĩ"}],"en":[{"word":"really"},{"word":"truly"},{"word":"certainly"}],"ru":[{"word":"действительно"},{"word":"конечно"}],"uk":[{"word":"справді"},{"word":"звичайно"}]},
+  {"lt":[{"word":"toli","stressed":"tolì"}],"en":[{"word":"far"},{"word":"far away"}],"ru":[{"word":"далеко"}],"uk":[{"word":"далеко"}]},
+  {"lt":[{"word":"tyčia","stressed":"tyčià"}],"en":[{"word":"on purpose"},{"word":"deliberately"}],"ru":[{"word":"специально"},{"word":"намеренно"}],"uk":[{"word":"навмисно"}]},
+  {"lt":[{"word":"vakar","stressed":"vakàr"}],"en":[{"word":"yesterday"}],"ru":[{"word":"вчера"}],"uk":[{"word":"вчора"}]},
+  {"lt":[{"word":"žemyn","stressed":"žemỹn"}],"en":[{"word":"downwards"},{"word":"down"}],"ru":[{"word":"вниз"}],"uk":[{"word":"вниз"}]}
+]
