@@ -1,5 +1,6 @@
 [
   {"lt": [{"word": "alkanas", "forms": "alkanàs, alkanà", "opposite": "sotus"}], "en": [{"word": "hungry"}], "ru": [{"word": "голодный"}], "uk": [{"word": "голодний"}], "context": "самочувствие"},
+  {"lt": [{"word": "aštrus", "forms":"aštrus, aštrì","opposite":"bukas"}],"en":[{"word":"sharp"},{"word":"pointed"}],"ru":[{"word":"острый"}],"uk":[{"word":"гострий"}]},
   {"lt": [{"word": "atvykstantis", "forms": "atvykstantis, atvykstanti"}], "en": [{"word": "arriving"}], "ru": [{"word": "прибывающий"}], "uk": [{"word": "той, що прибуває"}], "context": "аэропорт, транспорт"},
   {"lt": [{"word": "darbštus", "forms": "darbštùs, darbšti̇̀", "opposite": "tingus"}], "en": [{"word": "hardworking"}], "ru": [{"word": "трудолюбивый"}], "uk": [{"word": "працьовитий"}], "context": "характер"},
   {"lt": [{"word": "draugiškas", "forms": "draugiškàs, draugiškà", "opposite": "priešiškas"}], "en": [{"word": "friendly"}], "ru": [{"word": "дружелюбный"}], "uk": [{"word": "дружелюбний"}], "context": "характер"},

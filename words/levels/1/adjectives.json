@@ -9,6 +9,7 @@
   {"lt": [{"word": "karštas", "forms": "kar̃štas, karštà", "opposite": "vėsus"}], "en": [{"word": "hot"}], "ru": [{"word": "горячий"}], "uk": [{"word": "гарячий"}], "context": "температура"},
   {"lt": [{"word": "kvailus", "forms": "kvailùs, kvaili̇̀", "opposite": "protingas"}], "en": [{"word": "stupid"}], "ru": [{"word": "глупый"}], "uk": [{"word": "дурний"}], "context": "характер"},
   {"lt": [{"word": "mandagus", "forms": "mandagùs, mandagi̇̀", "opposite": "grubus"}], "en": [{"word": "polite"}], "ru": [{"word": "вежливый"}], "uk": [{"word": "ввічливий"}], "context": "поведение"},
+  {"lt":[{"word":"naktinis","forms":"naktìnis, naktìnė","opposite":"dieninis"}],"en":[{"word":"nocturnal"},{"word":"nightly"}],"ru":[{"word":"ночной"}],"uk":[{"word":"нічний"}]},
   {"lt": [{"word": "nuobodus", "forms": "nuobodùs, nuobodi̇̀", "opposite": "įdomus"}], "en": [{"word": "boring"}], "ru": [{"word": "скучный"}], "uk": [{"word": "нудний"}], "context": "лекция, фильм"},
   {"lt": [{"word": "protingas", "forms": "proti̇̀ngas, protingà", "opposite": "kvailus"}], "en": [{"word": "smart"}], "ru": [{"word": "умный"}], "uk": [{"word": "розумний"}], "context": "характер"},
   {"lt": [{"word": "saulėtas", "forms": "saulė́tas, saulėtà", "opposite": "apsiniaukęs / lietingas"}], "en": [{"word": "sunny"}], "ru": [{"word": "солнечный"}], "uk": [{"word": "сонячний"}], "context": "rytas, oras"},
