@@ -108,7 +108,7 @@
   {"lt": [{"word": "jis", "stressed": "jìs"}], "ru": [{"word": "он"}], "uk": [{"word": "він"}]},
   {"lt": [{"word": "jo", "stressed": "jõ", "context": "savybiniai įvardžiai"}], "ru": [{"word": "его"}], "uk": [{"word": "його"}]},
   {"lt": [{"word": "jos", "stressed": "jõs", "context": "moteriška giminė"}], "ru": [{"word": "они"}], "uk": [{"word": "вони"}]},
-  {"lt": [{"word": "jos", "stressed": "jõs", "context": "savybiniai įvardžiai"}], "ru": [{"word": "её`"}], "uk": [{"word": "її"}]},
+  {"lt": [{"word": "jos", "stressed": "jõs", "context": "savybiniai įvardžiai"}], "ru": [{"word": "её"}], "uk": [{"word": "її"}]},
   {"lt": [{"word": "jų", "stressed": "jų̃"}], "ru": [{"word": "их"}], "uk": [{"word": "їх"}]},
   {"lt": [{"word": "jūs", "stressed": "jū̃s"}], "ru": [{"word": "вы"}], "uk": [{"word": "ви"}]},
   {"lt": [{"word": "jūsų", "stressed": "jū́sų"}], "ru": [{"word": "ваш"}], "uk": [{"word": "ваш"}]},
