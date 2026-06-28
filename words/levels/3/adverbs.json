@@ -13,7 +13,6 @@
   {"lt":[{"word":"netyčia","stressed":"netyčià"}],"en":[{"word":"accidentally"},{"word":"unintentionally"}],"ru":[{"word":"случайно"},{"word":"нечаянно"}],"uk":[{"word":"випадково"}]},
   {"lt":[{"word":"normaliai","stressed":"normaliaĩ"}],"en":[{"word":"normally"},{"word":"usually"}],"ru":[{"word":"нормально"}],"uk":[{"word":"нормально"}]},
   {"lt":[{"word":"nuolat","stressed":"nuolat"}],"en":[{"word":"constantly"},{"word":"always"},{"word":"regularly"}],"ru":[{"word":"постоянно"}],"uk":[{"word":"постійно"}]},
-  {"lt":[{"word":"tikrai","stressed":"tikraĩ"}],"en":[{"word":"really"},{"word":"truly"},{"word":"certainly"}],"ru":[{"word":"действительно"},{"word":"конечно"}],"uk":[{"word":"справді"},{"word":"звичайно"}]},
   {"lt":[{"word":"toli","stressed":"tolì"}],"en":[{"word":"far"},{"word":"far away"}],"ru":[{"word":"далеко"}],"uk":[{"word":"далеко"}]},
   {"lt":[{"word":"tyčia","stressed":"tyčià"}],"en":[{"word":"on purpose"},{"word":"deliberately"}],"ru":[{"word":"специально"},{"word":"намеренно"}],"uk":[{"word":"навмисно"}]},
   {"lt":[{"word":"vakar","stressed":"vakàr"}],"en":[{"word":"yesterday"}],"ru":[{"word":"вчера"}],"uk":[{"word":"вчора"}]},

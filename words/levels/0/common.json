@@ -184,5 +184,6 @@
   {"lt": [{"word": "su", "stressed": "sù"}], "ru": [{"word": "с"}], "uk": [{"word": "з"}]},
   {"lt": [{"word": "šalia", "stressed": "šalià"}], "ru": [{"word": "у"}, {"word": "рядом"}, {"word": "возле"}, {"word": "около"}], "uk": [{"word": "у"}, {"word": "біля"}, {"word": "поруч"}, {"word": "поблизу"}]},
   {"lt": [{"word": "už", "stressed": "ùž"}], "ru": [{"word": "за"}], "uk": [{"word": "за"}]},
-  {"lt": [{"word": "virš", "stressed": "virš̃"}], "ru": [{"word": "над"}], "uk": [{"word": "над"}]}
+  {"lt": [{"word": "virš", "stressed": "virš̃"}], "ru": [{"word": "над"}], "uk": [{"word": "над"}]},
+  {"lt": [{"word": "žinoma", "stressed": "ži̇̀noma"}], "ru": [{"word": "конечно"}], "uk": [{"word": "звісно"}, {"word": "звичайно"}]}
 ]
