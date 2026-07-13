@@ -23,7 +23,6 @@
   {"lt": [{"word": "biologija", "stressed": "biològija", "gender": "moteriška"}], "en": [{"word": "biology"}], "ru": [{"word": "биология"}], "uk": [{"word": "біологія"}]},
   {"lt": [{"word": "biuras", "stressed": "biūras", "gender": "vyriška"}], "en": [{"word": "office"}], "ru": [{"word": "офис"}], "uk": [{"word": "офіс"}]},
   {"lt": [{"word": "blynai", "stressed": "blýnai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "pancakes"}], "ru": [{"word": "блины"}], "uk": [{"word": "млинці"}]},
-  {"lt": [{"word": "blynelis", "stressed": "blynỹlis", "gender": "vyriška"}], "en": [{"word": "crepe"}], "ru": [{"word": "блинчик"}], "uk": [{"word": "млинець"}]},
   {"lt": [{"word": "brolis", "stressed": "brólis", "gender": "vyriška"}], "en": [{"word": "brother"}], "ru": [{"word": "брат"}], "uk": [{"word": "брат"}]},
   {"lt": [{"word": "bulvės", "stressed": "bulvės", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "potatoes"}], "ru": [{"word": "картофель"}, {"word": "картошка"}], "uk": [{"word": "картопля"}]},
   {"lt": [{"word": "butas", "stressed": "bùtas", "gender": "vyriška"}], "en": [{"word": "apartment"}], "ru": [{"word": "квартира"}, {"word": "хата"}], "uk": [{"word": "квартира"}, {"word": "хата"}]},
