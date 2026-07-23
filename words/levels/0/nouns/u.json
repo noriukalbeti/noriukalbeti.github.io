@@ -1,7 +1,7 @@
 [
-  {"lt": [{"word": "ugnis", "stressed": "ugnìs", "gender": "moteriška"}], "en": [{"word": "fire"}], "ru": [{"word": "огонь"}]},
-  {"lt": [{"word": "universitetas", "stressed": "universitètas", "gender": "vyriška"}], "en": [{"word": "university"}], "ru": [{"word": "университет"}]},
-  {"lt": [{"word": "uogas", "stressed": "úogas", "gender": "vyriška"}], "en": [{"word": "berry"}], "ru": [{"word": "ягода"}]},
-  {"lt": [{"word": "uostas", "stressed": "úostas", "gender": "vyriška"}], "en": [{"word": "port"}], "ru": [{"word": "порт"}]},
-  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}]}
+  {"lt": [{"word": "ugnis", "stressed": "ugnìs", "gender": "moteriška"}], "en": [{"word": "fire"}], "ru": [{"word": "огонь"}], "uk": [{"word": "вогонь"}]},
+  {"lt": [{"word": "universitetas", "stressed": "universitètas", "gender": "vyriška"}], "en": [{"word": "university"}], "ru": [{"word": "университет"}], "uk": [{"word": "університет"}]},
+  {"lt": [{"word": "uogas", "stressed": "úogas", "gender": "vyriška"}], "en": [{"word": "berry"}], "ru": [{"word": "ягода"}], "uk": [{"word": "ягода"}]},
+  {"lt": [{"word": "uostas", "stressed": "úostas", "gender": "vyriška"}], "en": [{"word": "port"}], "ru": [{"word": "порт"}], "uk": [{"word": "порт"}]},
+  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}], "uk": [{"word": "річка"}]}
 ]

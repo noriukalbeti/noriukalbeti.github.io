@@ -1,10 +1,10 @@
 [
-  {"lt": [{"word": "raktas", "stressed": "rãktas", "gender": "vyriška"}], "en": [{"word": "key"}], "ru": [{"word": "ключ"}]},
-  {"lt": [{"word": "ranka", "stressed": "rankà", "gender": "moteriška"}], "en": [{"word": "hand"}], "ru": [{"word": "рука"}]},
-  {"lt": [{"word": "receptas", "stressed": "recèptas", "gender": "vyriška"}], "en": [{"word": "prescription"}, {"word": "recipe"}], "ru": [{"word": "рецепт"}]},
-  {"lt": [{"word": "remontas", "stressed": "remòntas", "gender": "vyriška"}], "en": [{"word": "repair"}], "ru": [{"word": "ремонт"}]},
-  {"lt": [{"word": "rezervacija", "stressed": "rezervãcija", "gender": "moteriška"}], "en": [{"word": "reservation"}], "ru": [{"word": "резервация"}, {"word": "бронь"}]},
-  {"lt": [{"word": "restoranas", "stressed": "restorãnas", "gender": "vyriška"}], "en": [{"word": "restaurant"}], "ru": [{"word": "ресторан"}]},
-  {"lt": [{"word": "riešutas", "stressed": "riešutas", "gender": "vyriška"}], "en": [{"word": "nut"}], "ru": [{"word": "орех"}]},
-  {"lt": [{"word": "rytas", "stressed": "rýtas", "gender": "vyriška"}], "en": [{"word": "morning"}], "ru": [{"word": "утро"}]}
+  {"lt": [{"word": "raktas", "stressed": "rãktas", "gender": "vyriška"}], "en": [{"word": "key"}], "ru": [{"word": "ключ"}], "uk": [{"word": "ключ"}]},
+  {"lt": [{"word": "ranka", "stressed": "rankà", "gender": "moteriška"}], "en": [{"word": "hand"}], "ru": [{"word": "рука"}], "uk": [{"word": "рука"}]},
+  {"lt": [{"word": "receptas", "stressed": "recèptas", "gender": "vyriška"}], "en": [{"word": "prescription"}, {"word": "recipe"}], "ru": [{"word": "рецепт"}], "uk": [{"word": "рецепт"}]},
+  {"lt": [{"word": "remontas", "stressed": "remòntas", "gender": "vyriška"}], "en": [{"word": "repair"}], "ru": [{"word": "ремонт"}], "uk": [{"word": "ремонт"}]},
+  {"lt": [{"word": "rezervacija", "stressed": "rezervãcija", "gender": "moteriška"}], "en": [{"word": "reservation"}], "ru": [{"word": "резервация"}, {"word": "бронь"}], "uk": [{"word": "резервація"}, {"word": "бронювання"}]},
+  {"lt": [{"word": "restoranas", "stressed": "restorãnas", "gender": "vyriška"}], "en": [{"word": "restaurant"}], "ru": [{"word": "ресторан"}], "uk": [{"word": "ресторан"}]},
+  {"lt": [{"word": "riešutas", "stressed": "riešutas", "gender": "vyriška"}], "en": [{"word": "nut"}], "ru": [{"word": "орех"}], "uk": [{"word": "горіх"}]},
+  {"lt": [{"word": "rytas", "stressed": "rýtas", "gender": "vyriška"}], "en": [{"word": "morning"}], "ru": [{"word": "утро"}], "uk": [{"word": "ранок"}]}
 ]

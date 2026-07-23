@@ -1,7 +1,7 @@
 [
-  {"lt": [{"word": "laiškas", "stressed": "laĩškas", "gender": "vyriška"}], "en": [{"word": "letter"}], "ru": [{"word": "письмо"}]},
-  {"lt": [{"word": "langas", "stressed": "langas", "gender": "vyriška"}], "en": [{"word": "window"}], "ru": [{"word": "окно"}]},
-  {"lt": [{"word": "ledai", "stressed": "ledaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "ice cream"}], "ru": [{"word": "мороженое"}]},
-  {"lt": [{"word": "lėktuvas", "stressed": "lėktùvas", "gender": "vyriška"}], "en": [{"word": "plane"}], "ru": [{"word": "самолет"}]},
-  {"lt": [{"word": "lekcija", "stressed": "lèkcija", "gender": "moteriška"}], "en": [{"word": "lecture"}], "ru": [{"word": "лекция"}]}
+  {"lt": [{"word": "laiškas", "stressed": "laĩškas", "gender": "vyriška"}], "en": [{"word": "letter"}], "ru": [{"word": "письмо"}], "uk": [{"word": "лист"}]},
+  {"lt": [{"word": "langas", "stressed": "langas", "gender": "vyriška"}], "en": [{"word": "window"}], "ru": [{"word": "окно"}], "uk": [{"word": "вікно"}]},
+  {"lt": [{"word": "ledai", "stressed": "ledaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "ice cream"}], "ru": [{"word": "мороженое"}], "uk": [{"word": "морозиво"}]},
+  {"lt": [{"word": "lėktuvas", "stressed": "lėktùvas", "gender": "vyriška"}], "en": [{"word": "plane"}], "ru": [{"word": "самолет"}], "uk": [{"word": "літак"}]},
+  {"lt": [{"word": "lekcija", "stressed": "lèkcija", "gender": "moteriška"}], "en": [{"word": "lecture"}], "ru": [{"word": "лекция"}], "uk": [{"word": "лекція"}]}
 ]
