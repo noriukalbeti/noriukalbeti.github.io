@@ -9,5 +9,14 @@
   {"lt": [{"word": "teisingai", "forms": "teisi̇̀ngai", "opposite": "klaidingai̇̃"}], "en": [{"word": "correctly"}], "ru": [{"word": "верно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}], "context": "оценка", "uk": [{"word": "вірно"}, {"word": "правильно"}, {"word": "правдиво"}, {"word": "справедливо"}]},
   {"lt": [{"word": "ten", "forms": "teñ", "opposite": "čia"}], "en": [{"word": "there"}], "ru": [{"word": "там"}], "context": "место", "uk": [{"word": "там"}]},
   {"lt": [{"word": "tikrai", "forms": "tikrai̇̃"}], "en": [{"word": "really"}], "ru": [{"word": "точно"}, {"word": "верно"}, {"word": "истинно"}, {"word": "правильно"}, {"word": "несомненно"}, {"word": "действительно"}, {"word": "на самом деле"}, {"word": "в самом деле"}], "context": "уверенность", "uk": [{"word": "точно"}, {"word": "вірно"}, {"word": "істинно"}, {"word": "правильно"}, {"word": "безсумнівно"}, {"word": "справді"}, {"word": "насправді"}, {"word": "воістину"}]},
-  {"lt": [{"word": "visada", "forms": "visadà", "opposite": "niekadà"}], "en": [{"word": "always"}], "ru": [{"word": "всегда"}], "context": "частота", "uk": [{"word": "завжди"}]}
+  {"lt": [{"word": "visada", "forms": "visadà", "opposite": "niekadà"}], "en": [{"word": "always"}], "ru": [{"word": "всегда"}], "context": "частота", "uk": [{"word": "завжди"}]},
+  {"lt": [{"word": "baltarusiškai", "forms": "baltarùsiškai"}], "en": [{"word": "in Belarusian"}], "ru": [{"word": "по-белорусски"}], "context": "язык", "uk": [{"word": "білоруською"}]},
+  {"lt": [{"word": "dabar", "forms": "dabar̃"}], "en": [{"word": "now"}], "ru": [{"word": "сейчас"}], "context": "время", "uk": [{"word": "зараз"}]},
+  {"lt": [{"word": "lietuviškai", "forms": "lietùviškai"}], "en": [{"word": "in Lithuanian"}], "ru": [{"word": "по-литовски"}], "context": "язык", "uk": [{"word": "литовською"}]},
+  {"lt": [{"word": "malonu", "forms": "malonù"}], "en": [{"word": "nice, pleasant"}], "ru": [{"word": "приятно"}], "context": "вежливость", "uk": [{"word": "приємно"}]},
+  {"lt": [{"word": "rusiškai", "forms": "rùsiškai"}], "en": [{"word": "in Russian"}], "ru": [{"word": "по-русски"}], "context": "язык", "uk": [{"word": "російською"}]},
+  {"lt": [{"word": "rytoj", "forms": "rytój"}], "en": [{"word": "tomorrow"}], "ru": [{"word": "завтра"}], "context": "время", "uk": [{"word": "завтра"}]},
+  {"lt": [{"word": "šiandien", "forms": "šiañdien"}], "en": [{"word": "today"}], "ru": [{"word": "сегодня"}], "context": "время", "uk": [{"word": "сьогодні"}]},
+  {"lt": [{"word": "truputį", "forms": "trupùtį"}], "en": [{"word": "a little (bit)"}], "ru": [{"word": "немного"}], "context": "степень", "uk": [{"word": "трохи"}]},
+  {"lt": [{"word": "ukrainietiškai", "forms": "ukrainiẽtiškai"}], "en": [{"word": "in Ukrainian"}], "ru": [{"word": "по-украински"}], "context": "язык", "uk": [{"word": "українською"}]}
 ]

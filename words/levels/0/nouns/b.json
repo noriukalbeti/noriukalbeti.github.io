@@ -26,5 +26,8 @@
   {"lt": [{"word": "brolis", "stressed": "brólis", "gender": "vyriška"}], "en": [{"word": "brother"}], "ru": [{"word": "брат"}], "uk": [{"word": "брат"}]},
   {"lt": [{"word": "bulvės", "stressed": "bulvės", "gender": "moteriška", "number": "daugiskaita"}], "en": [{"word": "potatoes"}], "ru": [{"word": "картофель"}, {"word": "картошка"}], "uk": [{"word": "картопля"}]},
   {"lt": [{"word": "butas", "stressed": "bùtas", "gender": "vyriška"}], "en": [{"word": "apartment"}], "ru": [{"word": "квартира"}, {"word": "хата"}], "uk": [{"word": "квартира"}, {"word": "хата"}]},
-  {"lt": [{"word": "butelis", "stressed": "bùtelis", "gender": "vyriška"}], "en": [{"word": "bottle"}], "ru": [{"word": "бутылка"}, {"word": "пузырь"}], "uk": [{"word": "пляшка"}]}
+  {"lt": [{"word": "butelis", "stressed": "bùtelis", "gender": "vyriška"}], "en": [{"word": "bottle"}], "ru": [{"word": "бутылка"}, {"word": "пузырь"}], "uk": [{"word": "пляшка"}]},
+  {"lt": [{"word": "Baltarusija", "stressed": "Baltarùsija", "gender": "moteriška"}], "en": [{"word": "Belarus"}], "ru": [{"word": "Беларусь"}], "uk": [{"word": "Білорусь"}]},
+  {"lt": [{"word": "baltarusis", "stressed": "Baltarùsis", "gender": "vyriška"}], "en": [{"word": "Belarusian (man)"}], "ru": [{"word": "белорус"}], "uk": [{"word": "білорус"}]},
+  {"lt": [{"word": "baltarusė", "stressed": "Baltarùsė", "gender": "moteriška"}], "en": [{"word": "Belarusian (woman)"}], "ru": [{"word": "белоруска"}], "uk": [{"word": "білоруска"}]}
 ]

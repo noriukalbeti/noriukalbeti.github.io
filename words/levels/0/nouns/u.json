@@ -3,5 +3,8 @@
   {"lt": [{"word": "universitetas", "stressed": "universitètas", "gender": "vyriška"}], "en": [{"word": "university"}], "ru": [{"word": "университет"}], "uk": [{"word": "університет"}]},
   {"lt": [{"word": "uogas", "stressed": "úogas", "gender": "vyriška"}], "en": [{"word": "berry"}], "ru": [{"word": "ягода"}], "uk": [{"word": "ягода"}]},
   {"lt": [{"word": "uostas", "stressed": "úostas", "gender": "vyriška"}], "en": [{"word": "port"}], "ru": [{"word": "порт"}], "uk": [{"word": "порт"}]},
-  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}], "uk": [{"word": "річка"}]}
+  {"lt": [{"word": "upė", "stressed": "ùpė", "gender": "moteriška"}], "en": [{"word": "river"}], "ru": [{"word": "река"}], "uk": [{"word": "річка"}]},
+  {"lt": [{"word": "Ukraina", "stressed": "Ukrainà", "gender": "moteriška"}], "en": [{"word": "Ukraine"}], "ru": [{"word": "Украина"}], "uk": [{"word": "Україна"}]},
+  {"lt": [{"word": "ukrainietis", "stressed": "ukrainiẽtis", "gender": "vyriška"}], "en": [{"word": "Ukrainian (man)"}], "ru": [{"word": "украинец"}], "uk": [{"word": "українець"}]},
+  {"lt": [{"word": "ukrainietė", "stressed": "ukrainiẽtė", "gender": "moteriška"}], "en": [{"word": "Ukrainian (woman)"}], "ru": [{"word": "украинка"}], "uk": [{"word": "українка"}]}
 ]

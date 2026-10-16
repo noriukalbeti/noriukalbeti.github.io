@@ -6,5 +6,8 @@
   {"lt": [{"word": "rezervacija", "stressed": "rezervãcija", "gender": "moteriška"}], "en": [{"word": "reservation"}], "ru": [{"word": "резервация"}, {"word": "бронь"}], "uk": [{"word": "резервація"}, {"word": "бронювання"}]},
   {"lt": [{"word": "restoranas", "stressed": "restorãnas", "gender": "vyriška"}], "en": [{"word": "restaurant"}], "ru": [{"word": "ресторан"}], "uk": [{"word": "ресторан"}]},
   {"lt": [{"word": "riešutas", "stressed": "riešutas", "gender": "vyriška"}], "en": [{"word": "nut"}], "ru": [{"word": "орех"}], "uk": [{"word": "горіх"}]},
-  {"lt": [{"word": "rytas", "stressed": "rýtas", "gender": "vyriška"}], "en": [{"word": "morning"}], "ru": [{"word": "утро"}], "uk": [{"word": "ранок"}]}
+  {"lt": [{"word": "rytas", "stressed": "rýtas", "gender": "vyriška"}], "en": [{"word": "morning"}], "ru": [{"word": "утро"}], "uk": [{"word": "ранок"}]},
+  {"lt": [{"word": "Rusija", "stressed": "Rùsija", "gender": "moteriška"}], "en": [{"word": "Russia"}], "ru": [{"word": "Россия"}], "uk": [{"word": "Росія"}]},
+  {"lt": [{"word": "rusas", "stressed": "rùsas", "gender": "vyriška"}], "en": [{"word": "Russian (man)"}], "ru": [{"word": "русский"}], "uk": [{"word": "росіянин"}]},
+  {"lt": [{"word": "rusė", "stressed": "rùsė", "gender": "moteriška"}], "en": [{"word": "Russian (woman)"}], "ru": [{"word": "русская"}], "uk": [{"word": "росіянка"}]}
 ]
