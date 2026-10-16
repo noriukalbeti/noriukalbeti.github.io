@@ -31,7 +31,7 @@
   {"lt": [{"word": "gydytojas", "stressed": "gýdytojas", "gender": "vyriška"}], "en": [{"word": "doctor"}], "ru": [{"word": "врач"}], "uk": [{"word": "лікар"}]},
   {"lt": [{"word": "grietinė", "stressed": "grietìnė", "gender": "moteriška"}], "en": [{"word": "sour cream"}], "ru": [{"word": "сметана"}], "uk": [{"word": "сметана"}]},
   {"lt": [{"word": "grietinėlė", "stressed": "grietinė́lė", "gender": "moteriška"}], "en": [{"word": "cream"}], "ru": [{"word": "сливки", "context": "продукт"}], "uk": [{"word": "вершки"}]},
-  {"lt": [{"word": "grikiai", "stressed": "griкiaĩ", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "buckwheat"}], "ru": [{"word": "греча"}], "uk": [{"word": "гречка"}]},
+  {"lt": [{"word": "grikiai", "stressed": "grìkiai", "gender": "vyriška", "number": "daugiskaita"}], "en": [{"word": "buckwheat"}], "ru": [{"word": "греча"}], "uk": [{"word": "гречка"}]},
   {"lt": [{"word": "gripas", "stressed": "grìpas", "gender": "vyriška"}], "en": [{"word": "flu"}], "ru": [{"word": "грипп"}], "uk": [{"word": "грип"}]},
   {"lt": [{"word": "grybas", "stressed": "grỹbas", "gender": "vyriška"}], "en": [{"word": "mushroom"}], "ru": [{"word": "гриб"}], "uk": [{"word": "гриб"}]},
   {"lt": [{"word": "grūdas", "stressed": "grū́das", "gender": "vyriška"}], "en": [{"word": "grain"}], "ru": [{"word": "зерно"}], "uk": [{"word": "зерно"}]},
