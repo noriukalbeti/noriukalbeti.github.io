@@ -28,6 +28,6 @@
   {"lt": [{"word": "butas", "stressed": "bùtas", "gender": "vyriška"}], "en": [{"word": "apartment"}], "ru": [{"word": "квартира"}, {"word": "хата"}], "uk": [{"word": "квартира"}, {"word": "хата"}]},
   {"lt": [{"word": "butelis", "stressed": "bùtelis", "gender": "vyriška"}], "en": [{"word": "bottle"}], "ru": [{"word": "бутылка"}, {"word": "пузырь"}], "uk": [{"word": "пляшка"}]},
   {"lt": [{"word": "Baltarusija", "stressed": "Baltarùsija", "gender": "moteriška"}], "en": [{"word": "Belarus"}], "ru": [{"word": "Беларусь"}], "uk": [{"word": "Білорусь"}]},
-  {"lt": [{"word": "baltarusis", "stressed": "Baltarùsis", "gender": "vyriška"}], "en": [{"word": "Belarusian (man)"}], "ru": [{"word": "белорус"}], "uk": [{"word": "білорус"}]},
-  {"lt": [{"word": "baltarusė", "stressed": "Baltarùsė", "gender": "moteriška"}], "en": [{"word": "Belarusian (woman)"}], "ru": [{"word": "белоруска"}], "uk": [{"word": "білоруска"}]}
+  {"lt": [{"word": "baltarusis", "stressed": "baltarùsis", "gender": "vyriška"}], "en": [{"word": "Belarusian (man)"}], "ru": [{"word": "белорус"}], "uk": [{"word": "білорус"}]},
+  {"lt": [{"word": "baltarusė", "stressed": "baltarùsė", "gender": "moteriška"}], "en": [{"word": "Belarusian (woman)"}], "ru": [{"word": "белоруска"}], "uk": [{"word": "білоруска"}]}
 ]
