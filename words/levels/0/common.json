@@ -189,7 +189,7 @@
   {"lt": [{"word": "žinoma", "stressed": "ži̇̀noma"}], "ru": [{"word": "конечно"}], "uk": [{"word": "звісно"}, {"word": "звичайно"}]},
   {"lt": [{"word": "kokia", "stressed": "kokià"}], "en": [{"word": "what (feminine)"}], "ru": [{"word": "какая"}], "uk": [{"word": "яка"}]},
   {"lt": [{"word": "prašom", "stressed": "prãšom"}], "en": [{"word": "please, here you are"}], "ru": [{"word": "пожалуйста"}], "uk": [{"word": "будь ласка"}]},
-  {"lt": [{"word": "sveika", "stressed": "sveikà"}], "en": [{"word": "hi (to a woman)"}], "ru": [{"word": "привет (ей)"}], "uk": [{"word": "привіт (їй)"}]},
-  {"lt": [{"word": "sveikas", "stressed": "svei̇̃kas"}], "en": [{"word": "hi (to a man)"}], "ru": [{"word": "привет (ему)"}], "uk": [{"word": "привіт (йому)"}]},
+  {"lt": [{"word": "sveika", "stressed": "sveikà"}], "en": [{"word": "hi (to a woman)"}], "ru": [{"word": "привет"}], "uk": [{"word": "привіт (їй)"}]},
+  {"lt": [{"word": "sveikas", "stressed": "svei̇̃kas"}], "en": [{"word": "hi (to a man)"}], "ru": [{"word": "привет"}], "uk": [{"word": "привіт (йому)"}]},
   {"lt": [{"word": "tai", "stressed": "taĩ"}], "en": [{"word": "this, it"}], "ru": [{"word": "это"}], "uk": [{"word": "це"}]}
 ]
