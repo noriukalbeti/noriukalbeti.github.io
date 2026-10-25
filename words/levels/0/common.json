@@ -201,6 +201,6 @@
   {"lt": [{"word": "esate", "stressed": "esatè"}], "en": [{"word": "you are (plural, polite)"}], "ru": [{"word": "есть"}, {"word": "являетесь"}], "uk": [{"word": "є"}, {"word": "являєтеся"}]},
   {"lt": [{"word": "nesu", "stressed": "nesù"}], "en": [{"word": "I am not"}], "ru": [{"word": "не являюсь"}, {"word": "не есть"}], "uk": [{"word": "не є"}, {"word": "не являюся"}]},
   {"lt": [{"word": "yra", "stressed": "yrà"}], "en": [{"word": "is, there is"}], "ru": [{"word": "есть"}, {"word": "является"}], "uk": [{"word": "є"}, {"word": "являється"}]},
-  {"lt": [{"word": "nėra", "forms": "nėrà, nebuvo", "conjugation": "Irregular"}], "en": [{"word": "is not, there is no"}], "ru": [{"word": "нет"}, {"word": "не является"}], "uk": [{"word": "немає"}, {"word": "не є"}]},
+  {"lt": [{"word": "nėra", "forms": "nėrà, nebùvo", "conjugation": "Irregular"}], "en": [{"word": "is not, there is no"}], "ru": [{"word": "нет"}, {"word": "не является"}], "uk": [{"word": "немає"}, {"word": "не є"}]},
   {"lt": [{"word": "nežinau", "stressed": "nežinaũ"}], "en": [{"word": "I do not know"}], "ru": [{"word": "не знаю"}], "uk": [{"word": "не знаю"}]}
 ]
