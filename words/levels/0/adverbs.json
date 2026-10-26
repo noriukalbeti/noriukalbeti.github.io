@@ -13,7 +13,7 @@
   {"lt": [{"word": "baltarusiškai", "forms": "baltarùsiškai"}], "en": [{"word": "in Belarusian"}], "ru": [{"word": "по-белорусски"}], "context": "язык", "uk": [{"word": "білоруською"}]},
   {"lt": [{"word": "dabar", "forms": "dabar̃"}], "en": [{"word": "now"}], "ru": [{"word": "сейчас"}], "context": "время", "uk": [{"word": "зараз"}]},
   {"lt": [{"word": "lietuviškai", "forms": "lietùviškai"}], "en": [{"word": "in Lithuanian"}], "ru": [{"word": "по-литовски"}], "context": "язык", "uk": [{"word": "литовською"}]},
-  {"lt": [{"word": "malonu", "forms": "malonù"}], "en": [{"word": "nice, pleasant"}], "ru": [{"word": "приятно"}], "context": "вежливость", "uk": [{"word": "приємно"}]},
+  {"lt": [{"word": "malonu", "forms": "malonù"}], "en": [{"word": "nice"}, {"word": "pleasant"}], "ru": [{"word": "приятно"}], "context": "вежливость", "uk": [{"word": "приємно"}]},
   {"lt": [{"word": "rusiškai", "forms": "rùsiškai"}], "en": [{"word": "in Russian"}], "ru": [{"word": "по-русски"}], "context": "язык", "uk": [{"word": "російською"}]},
   {"lt": [{"word": "rytoj", "forms": "rytój"}], "en": [{"word": "tomorrow"}], "ru": [{"word": "завтра"}], "context": "время", "uk": [{"word": "завтра"}]},
   {"lt": [{"word": "šiandien", "forms": "šiañdien"}], "en": [{"word": "today"}], "ru": [{"word": "сегодня"}], "context": "время", "uk": [{"word": "сьогодні"}]},
