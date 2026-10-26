@@ -1,5 +1,5 @@
 [
-  {"lt": [{"word": "apdovanoti"}], "en": [{"word": "to award; to gift"}], "ru": [{"word": "наградить"}, {"word": "одарить"}], "uk": [{"word": "нагородити; обдарувати"}]},
+  {"lt": [{"word": "apdovanoti"}], "en": [{"word": "to award"}, {"word": "to gift"}], "ru": [{"word": "наградить"}, {"word": "одарить"}], "uk": [{"word": "нагородити"}, {"word": "обдарувати"}]},
   {"lt": [{"word": "apkabinti"}], "en": [{"word": "to hug"}], "ru": [{"word": "обнять"}], "uk": [{"word": "обійняти"}]},
   {"lt": [{"word": "aplankyti", "forms": "aplankýti, aplanko, aplankė", "conjugation": "III"}], "en": [{"word": "to visit"}], "ru": [{"word": "посетить"}, {"word": "навестить"}], "uk": [{"word": "відвідати"}, {"word": "навідати"}], "context": "людей или места"},
   {"lt": [{"word": "apsiauti"}], "en": [{"word": "to put on shoes"}], "ru": [{"word": "обуться"}], "uk": [{"word": "взутися"}]},
@@ -58,7 +58,7 @@
   {"lt": [{"word": "kirpti", "forms": "kir̃pti, ker̃pa, kir̃po", "conjugation": "I"}], "en": [{"word": "to cut (with scissors)"}, {"word": "to shear"}, {"word": "to trim"}], "ru": [{"word": "стричь"}, {"word": "резать"}], "uk": [{"word": "стригти"}, {"word": "різати"}], "context": "волосы, ногти, ткань, бумага"},
   {"lt": [{"word": "klausyti"}], "en": [{"word": "to listen"}], "ru": [{"word": "слушать"}], "uk": [{"word": "слухати"}]},
   {"lt": [{"word": "lankytis"}], "en": [{"word": "to visit"}], "ru": [{"word": "бывать"}, {"word": "навещать"}], "uk": [{"word": "відвідувати"}]},
-  {"lt": [{"word": "leisti"}], "en": [{"word": "to let; to spend (time)"}], "ru": [{"word": "позволять"}, {"word": "проводить (время)"}], "uk": [{"word": "дозволяти; проводити"}]},
+  {"lt": [{"word": "leisti"}], "en": [{"word": "to let"}, {"word": "to spend (time)"}], "ru": [{"word": "позволять"}, {"word": "проводить (время)"}], "uk": [{"word": "дозволяти"}, {"word": "проводити"}]},
   {"lt": [{"word": "linkėti"}], "en": [{"word": "to wish"}], "ru": [{"word": "желать"}], "uk": [{"word": "бажати"}]},
   {"lt": [{"word": "linksmintis"}], "en": [{"word": "to have fun"}], "ru": [{"word": "веселиться"}], "uk": [{"word": "веселитися"}]},
   {"lt": [{"word": "lyti"}], "en": [{"word": "to rain"}], "ru": [{"word": "идти"}], "uk": [{"word": "йти (про дощ)"}]},
@@ -117,7 +117,7 @@
   {"lt": [{"word": "skristi"}], "en": [{"word": "to fly"}], "ru": [{"word": "лететь"}], "uk": [{"word": "летіти"}]},
   {"lt": [{"word": "skubėti", "forms": "skubė́ti, skùba, skubė́jo", "conjugation": "I"}], "en": [{"word": "to hurry"}], "ru": [{"word": "спешить"}, {"word": "торопиться"}, {"word": "лететь пулей"}], "uk": [{"word": "поспішати"}, {"word": "квапитися"}], "context": "нехватка времени"},
   {"lt": [{"word": "snigti"}], "en": [{"word": "to snow"}], "ru": [{"word": "идти"}], "uk": [{"word": "йти (про сніг)"}]},
-  {"lt": [{"word": "statyti"}], "en": [{"word": "to build; to place"}], "ru": [{"word": "строить"}, {"word": "ставить"}], "uk": [{"word": "будувати; ставити"}]},
+  {"lt": [{"word": "statyti"}], "en": [{"word": "to build"}, {"word": "to place"}], "ru": [{"word": "строить"}, {"word": "ставить"}], "uk": [{"word": "будувати"}, {"word": "ставити"}]},
   {"lt": [{"word": "stengtis"}], "en": [{"word": "to try"}], "ru": [{"word": "стараться"}], "uk": [{"word": "старатися"}]},
   {"lt": [{"word": "sugesti"}], "en": [{"word": "to break down"}], "ru": [{"word": "сломаться"}], "uk": [{"word": "зламатися"}]},
   {"lt": [{"word": "sukti"}], "en": [{"word": "to turn"}], "ru": [{"word": "поворачивать"}], "uk": [{"word": "повертати"}]},
@@ -150,7 +150,7 @@
   {"lt": [{"word": "versti"}], "en": [{"word": "to translate"}], "ru": [{"word": "переводить"}], "uk": [{"word": "перекладати"}]},
   {"lt": [{"word": "vėluoti", "forms": "vėlúoti, vėlúoja, vėlãvo", "conjugation": "I"}], "en": [{"word": "to be late"}], "ru": [{"word": "опаздывать"}, {"word": "прошляпить (время)"}], "uk": [{"word": "запізнюватися"}, {"word": "спізнюватися"}], "context": "нарушать график"},
   {"lt": [{"word": "virti", "forms": "vi̇̀rti, vérda, vi̇̀rė", "conjugation": "I"}], "en": [{"word": "to boil"}, {"word": "to cook"}], "ru": [{"word": "варить"}, {"word": "кипеть"}], "uk": [{"word": "варити"}, {"word": "кипіти"}], "context": "приготовление пищи, кипение жидкости"},
-  {"lt": [{"word": "vykti"}], "en": [{"word": "to go"}, {"word": "to take place"}], "ru": [{"word": "ехать"}, {"word": "проходить (о событии)"}], "uk": [{"word": "їхати; відбуватися"}]},
+  {"lt": [{"word": "vykti"}], "en": [{"word": "to go"}, {"word": "to take place"}], "ru": [{"word": "ехать"}, {"word": "проходить (о событии)"}], "uk": [{"word": "їхати"}, {"word": "відбуватися"}]},
   {"lt": [{"word": "žaisti", "forms": "žai̇̃sti, žai̇̃džia, žai̇̃dė", "conjugation": "I"}], "en": [{"word": "to play"}], "ru": [{"word": "играть"}], "uk": [{"word": "грати"}], "context": "игры, спорт, развлечения"},
   {"lt": [{"word": "žydėti"}], "en": [{"word": "to bloom"}], "ru": [{"word": "цвести"}], "uk": [{"word": "цвісти"}]},
   {"lt": [{"word": "žvejoti", "forms": "žvejóti, žvejója, žvejójo", "conjugation": "I"}], "en": [{"word": "to fish"}, {"word": "to go fishing"}], "ru": [{"word": "рыбачить"}, {"word": "удить"}], "uk": [{"word": "рибалити"}, {"word": "ловити рибу"}], "context": "хобби, промысел"}
