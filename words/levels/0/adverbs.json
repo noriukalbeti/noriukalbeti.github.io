@@ -1,6 +1,6 @@
 [
   {"lt": [{"word": "blogai", "forms": "blogai̇̃", "opposite": "gerai̇̃"}], "en": [{"word": "badly"}], "ru": [{"word": "плохо"}], "context": "оценка", "uk": [{"word": "погано"}]},
-  {"lt": [{"word": "čia", "forms": "čià", "opposite": "ten"}], "en": [{"word": "here"}], "ru": [{"word": "здесь"}], "context": "место", "uk": [{"word": "тут"}]},
+  {"lt": [{"word": "čia", "forms": "čià", "opposite": "ten"}], "en": [{"word": "here"}], "ru": [{"word": "здесь"}, {"word": "тут"}], "context": "место", "uk": [{"word": "тут"}]},
   {"lt": [{"word": "gerai", "forms": "gerai̇̃", "opposite": "blogai̇̃"}], "en": [{"word": "well"}], "ru": [{"word": "хорошо"}], "context": "оценка", "uk": [{"word": "добре"}]},
   {"lt": [{"word": "labai", "forms": "labai̇̃"}], "en": [{"word": "very"}], "ru": [{"word": "очень"}], "context": "степень", "uk": [{"word": "дуже"}]},
   {"lt": [{"word": "neteisingai", "forms": "neteisi̇̀ngai"}], "en": [{"word": "incorrectly"}], "ru": [{"word": "неправильно"}, {"word": "неверно"}, {"word": "несправедливо"}], "context": "оценка", "uk": [{"word": "неправильно"}, {"word": "невірно"}, {"word": "несправедливо"}]},

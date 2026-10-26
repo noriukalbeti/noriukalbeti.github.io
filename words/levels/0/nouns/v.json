@@ -10,7 +10,7 @@
   {"lt": [{"word": "vaistas", "stressed": "vaĩstas", "gender": "vyriška"}], "en": [{"word": "medication"}], "ru": [{"word": "лекарство"}], "uk": [{"word": "ліки"}]},
   {"lt": [{"word": "vaistinė", "stressed": "vaĩstinė", "gender": "moteriška"}], "en": [{"word": "pharmacy"}], "ru": [{"word": "аптека"}], "uk": [{"word": "аптека"}]},
   {"lt": [{"word": "vakaras", "stressed": "vãkaras", "gender": "vyriška"}], "en": [{"word": "evening"}], "ru": [{"word": "вечер"}], "uk": [{"word": "вечір"}]},
-  {"lt": [{"word": "vakarienė", "stressed": "vakariẽnė", "gender": "moteriška"}], "en": [{"word": "supper"}], "ru": [{"word": "ужин"}], "uk": [{"word": "вечеря"}]},
+  {"lt": [{"word": "vakarienė", "stressed": "vakariẽnė", "gender": "moteriška"}], "en": [{"word": "dinner"}, {"word": "supper"}], "ru": [{"word": "ужин"}], "uk": [{"word": "вечеря"}]},
   {"lt": [{"word": "vakarėlis", "stressed": "vakarė̃lis", "gender": "vyriška"}], "en": [{"word": "party"}], "ru": [{"word": "вечеринка"}], "uk": [{"word": "вечірка"}]},
   {"lt": [{"word": "valanda", "stressed": "valandà", "gender": "moteriška"}], "en": [{"word": "hour"}], "ru": [{"word": "час"}], "uk": [{"word": "година"}]},
   {"lt": [{"word": "vanduo", "stressed": "vanduõ", "gender": "vyriška"}], "en": [{"word": "water"}], "ru": [{"word": "вода"}], "uk": [{"word": "вода"}]},
